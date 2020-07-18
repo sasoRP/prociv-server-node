@@ -23,6 +23,8 @@ app.use(express.json());
 
 app.get('/', controllers.getIndex);
 
+app.get('/fetchAll', controllers.fetchAll);
+
 app.listen(port, () =>
     console.log(`App listening at http://localhost:${port}`)
 );

@@ -1,12 +1,17 @@
 const axios = require('axios');
-const fs = require('fs');
+
+const Occurrence = require('./models/occurrence');
+
+let occurrences;
 
 const BASE_URL =
     'http://www.prociv.pt/_vti_bin/ARM.ANPC.UI/ANPC_SituacaoOperacional.svc/';
 
-function getHistoryOccurrencesByLocation() {
+// Get all occurrences from ANPC
+
+exports.getHistoryOccurrencesByLocation = () => {
     axios
-        .post(BASE_URL + 'GetHistoryOccurrencesByLocation', {
+        .post(`${BASE_URL}GetHistoryOccurrencesByLocation`, {
             distritoID: null,
             concelhoID: null,
             freguesiaID: null,
@@ -15,26 +20,38 @@ function getHistoryOccurrencesByLocation() {
             forToday: false,
             natureza: '0'
         })
-        .then(
-            (response) => {
-                fs.writeFile(
-                    'results.js',
-                    JSON.stringify(
-                        response.data.GetHistoryOccurrencesByLocationResult
-                            .ArrayInfo[0].Data
-                    ),
-                    function (err) {
-                        if (err) {
-                            return console.log(err);
-                        }
-                        console.log('The file was saved!');
-                    }
-                );
-            },
-            (error) => {
-                console.log(error);
-            }
-        );
-}
-
-getHistoryOccurrencesByLocation();
+        .then((response) => {
+            occurrences =
+                response.data.GetHistoryOccurrencesByLocationResult.ArrayInfo[0]
+                    .Data;
+            occurrences.forEach((occurr) => {
+                let queryObj = new Occurrence({
+                    Concelho: occurr.Concelho.Name,
+                    DataFechoOperacional: occurr.DataFechoOperacional,
+                    DataOcorrencia: occurr.DataOcorrencia,
+                    Distrito: occurr.Distrito.Name,
+                    EstadoOcorrencia: occurr.EstadoOcorrencia.Name,
+                    EstadoOcorrenciaID: occurr.EstadoOcorrenciaID,
+                    Freguesia: occurr.Freguesia.Name,
+                    ID: occurr.ID,
+                    Latitude: occurr.Latitude,
+                    Localidade: occurr.Localidade,
+                    Longitude: occurr.Longitude,
+                    Natureza: occurr.Natureza.ID,
+                    Numero: occurr.Numero,
+                    NumeroMeiosAereosEnvolvidos:
+                        occurr.NumeroMeiosAereosEnvolvidos,
+                    NumeroMeiosTerrestresEnvolvidos:
+                        occurr.NumeroMeiosTerrestresEnvolvidos,
+                    NumeroOperacionaisAereosEnvolvidos:
+                        occurr.NumeroOperacionaisAereosEnvolvidos,
+                    NumeroOperacionaisTerrestresEnvolvidos:
+                        occurr.NumeroOperacionaisTerrestresEnvolvidos
+                });
+                queryObj
+                    .save()
+                    .then((response) => console.log(response))
+                    .catch((err) => console.log(err));
+            });
+        });
+};
