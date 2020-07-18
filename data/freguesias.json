@@ -1,0 +1,4380 @@
+// Freguesias (DICOFRE code) organized by Concelho Code
+
+{
+  "0101": [
+    ["010103", "AGUADA DE CIMA"],
+    ["010109", "FERMENTELOS"],
+    ["010112", "MACINHATA DO VOUGA"],
+    ["010119", "VALONGO DO VOUGA"],
+    ["010121", "União das freguesias de Águeda e Borralha"],
+    ["010122", "União das freguesias de Barrô e Aguada de Baixo"],
+    [
+      "010123",
+
+      "União das freguesias de Belazaima do Chão, Castanheira do Vouga e Agadão"
+    ],
+    ["010124", "União das freguesias de Recardães e Espinhel"],
+    ["010125", "União das freguesias de Travassô e Óis da Ribeira"],
+    ["010126", "União das freguesias de Trofa, Segadães e Lamas do Vouga"],
+    ["010127", "União das freguesias do Préstimo e Macieira de Alcoba"]
+  ],
+
+  "0102": [
+    ["010202", "ALQUERUBIM"],
+    ["010203", "ANGEJA"],
+    ["010204", "BRANCA"],
+    ["010206", "RIBEIRA DE FRÁGUAS"],
+    ["010209", "Albergaria-a-Velha e Valmaior"],
+    ["010210", "São João de Loure e Frossos"]
+  ],
+
+  "0103": [
+    ["010304", "AVELÃS DE CAMINHO"],
+    ["010305", "AVELÃS DE CIMA"],
+    ["010307", "MOITA"],
+    ["010309", "SANGALHOS"],
+    ["010310", "SÃO LOURENÇO DO BAIRRO"],
+    ["010312", "VILA NOVA DE MONSARROS"],
+    ["010313", "VILARINHO DO BAIRRO"],
+    [
+      "010316",
+      "União das freguesias de Amoreira da Gândara, Paredes do Bairro e Ancas"
+    ],
+    ["010317", "União das freguesias de Arcos e Mogofores"],
+    ["010318", "União das freguesias de Tamengos, Aguim e Óis do Bairro"]
+  ],
+
+  "0104": [
+    ["010402", "ALVARENGA"],
+    ["010407", "CHAVE"],
+    ["010409", "ESCARIZ"],
+    ["010411", "FERMEDO"],
+    ["010413", "MANSORES"],
+    ["010414", "MOLDES"],
+    ["010415", "ROSSAS"],
+    ["010416", "SANTA EULÁLIA"],
+    ["010417", "SÃO MIGUEL DO MATO"],
+    ["010418", "TROPEÇO"],
+    ["010419", "URRÔ"],
+    ["010420", "VÁRZEA"],
+    ["010421", "União das freguesias de Arouca e Burgo"],
+    ["010422", "União das freguesias de Cabreiros e Albergaria da Serra"],
+    ["010423", "União das freguesias de Canelas e Espiunca"],
+    ["010424", "União das freguesias de Covelo de Paivó e Janarde"]
+  ],
+
+  "0105": [
+    ["010501", "ARADAS"],
+    ["010502", "CACIA"],
+    ["010505", "ESGUEIRA"],
+    ["010508", "OLIVEIRINHA"],
+    ["010510", "SÃO BERNARDO"],
+    ["010511", "SÃO JACINTO"],
+    ["010513", "SANTA JOANA"],
+    ["010515", "Eixo e Eirol"],
+    ["010516", "Requeixo, Nossa Senhora de Fátima e Nariz"],
+    ["010517", "União das freguesias de Glória e Vera Cruz"]
+  ],
+
+  "0106": [
+    ["010602", "FORNOS"],
+    ["010606", "REAL"],
+    ["010607", "SANTA MARIA DE SARDOURA"],
+    ["010608", "SÃO MARTINHO DE SARDOURA"],
+    ["010610", "União das freguesias de Raiva, Pedorido e Paraíso"],
+    ["010611", "União das freguesias de Sobrado e Bairros"]
+  ],
+
+  "0107": [
+    ["010702", "ESPINHO"],
+    ["010704", "PARAMOS"],
+    ["010705", "SILVALDE"],
+    ["010706", "União das freguesias de Anta e Guetim"]
+  ],
+
+  "0108": [
+    ["010801", "AVANCA"],
+    ["010805", "PARDILHÓ"],
+    ["010806", "SALREU"],
+    ["010808", "União das freguesias de Beduído e Veiros"],
+    ["010809", "União das freguesias de Canelas e Fermelã"]
+  ],
+
+  "0109": [
+    ["010901", "ARGONCILHE"],
+    ["010902", "ARRIFANA"],
+    ["010904", "ESCAPÃES"],
+    ["010907", "FIÃES"],
+    ["010908", "FORNOS"],
+    ["010913", "LOUROSA"],
+    ["010914", "MILHEIRÓS DE POIARES"],
+    ["010916", "MOZELOS"],
+    ["010917", "NOGUEIRA DA REGEDOURA"],
+    ["010918", "SÃO PAIO DE OLEIROS"],
+    ["010919", "PAÇOS DE BRANDÃO"],
+    ["010921", "RIO MEÃO"],
+    ["010922", "ROMARIZ"],
+    ["010924", "SANGUEDO"],
+    ["010925", "SANTA MARIA DE LAMAS"],
+    ["010926", "SÃO JOÃO DE VER"],
+    ["010932", "União das freguesias de Caldas de São Jorge e Pigeiros"],
+    ["010933", "União das freguesias de Canedo, Vale e Vila Maior"],
+    ["010934", "União das freguesias de Lobão, Gião, Louredo e Guisande"],
+    [
+      "010935",
+      "União das freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo"
+    ],
+    ["010936", "União das freguesias de São Miguel do Souto e Mosteirô"]
+  ],
+
+  "0110": [
+    ["011005", "GAFANHA DA ENCARNAÇÃO"],
+    ["011006", "GAFANHA DA NAZARÉ"],
+    ["011007", "GAFANHA DO CARMO"],
+    ["011008", "ÍLHAVO (SÃO SALVADOR)"]
+  ],
+
+  "0111": [
+    ["011102", "BARCOUÇO"],
+    ["011103", "CASAL COMBA"],
+    ["011104", "LUSO"],
+    ["011106", "PAMPILHOSA"],
+    ["011107", "VACARIÇA"],
+    ["011109", "União das freguesias da Mealhada, Ventosa do Bairro e Antes"]
+  ],
+
+  "0112": [
+    ["011201", "BUNHEIRO"],
+    ["011202", "MONTE"],
+    ["011203", "MURTOSA"],
+    ["011204", "TORREIRA"]
+  ],
+  "0113": [
+    ["011301", "CARREGOSA"],
+    ["011302", "CESAR"],
+    ["011303", "FAJÕES"],
+    ["011304", "LOUREIRO"],
+    ["011305", "MACIEIRA DE SARNES"],
+    ["011310", "OSSELA"],
+    ["011315", "SÃO MARTINHO DA GÂNDARA"],
+    ["011318", "SÃO ROQUE"],
+    ["011319", "VILA DE CUCUJÃES"],
+    ["011320", "União das freguesias de Nogueira do Cravo e Pindelo"],
+    [
+      "011321",
+      "União das freguesias de Oliveira de Azeméis, Santiago da Riba-Ul, Ul, Macinhata da Seixa e Madail"
+    ],
+    [
+      "011322",
+      "União das freguesias de Pinheiro da Bemposta, Travanca e Palmaz"
+    ]
+  ],
+
+  "0114": [
+    ["011403", "OIÃ"],
+    ["011404", "OLIVEIRA DO BAIRRO"],
+    ["011405", "PALHAÇA"],
+    ["011407", "União das freguesias de Bustos, Troviscal e Mamarrosa"]
+  ],
+
+  "0115": [
+    ["011502", "CORTEGAÇA"],
+    ["011503", "ESMORIZ"],
+    ["011504", "MACEDA"],
+    ["011507", "VÁLEGA"],
+    [
+      "011509",
+      "União das freguesias de Ovar, São João, Arada e São Vicente de Pereira Jusã"
+    ]
+  ],
+
+  "0116": [["011601", "SÃO JOÃO DA MADEIRA"]],
+
+  "0117": [
+    ["011702", "COUTO DE ESTEVES"],
+    ["011704", "PESSEGUEIRO DO VOUGA"],
+    ["011705", "ROCAS DO VOUGA"],
+    ["011706", "SEVER DO VOUGA"],
+    ["011708", "TALHADAS"],
+    ["011710", "União das freguesias de Cedrim e Paradela"],
+    ["011711", "União das freguesias de Silva Escura e Dornelas"]
+  ],
+
+  "0118": [
+    ["011801", "CALVÃO"],
+    ["011804", "GAFANHA DA BOA HORA"],
+    ["011805", "OUCA"],
+    ["011807", "SOSA"],
+    ["011810", "SANTO ANDRÉ DE VAGOS"],
+    ["011812", "União das freguesias de Fonte de Angeão e Covão do Lobo"],
+    ["011813", "União das freguesias de Ponte de Vagos e Santa Catarina"],
+    ["011814", "União das freguesias de Vagos e Santo António"]
+  ],
+
+  "0119": [
+    ["011901", "ARÕES"],
+    ["011902", "SÃO PEDRO DE CASTELÕES"],
+    ["011903", "CEPELOS"],
+    ["011905", "JUNQUEIRA"],
+    ["011906", "MACIEIRA DE CAMBRA"],
+    ["011907", "ROGE"],
+    [
+      "011910",
+      "União das freguesias de Vila Chã, Codal e Vila Cova de Perrinho"
+    ]
+  ],
+
+  "0201": [
+    ["020102", "ERVIDEL"],
+    ["020103", "MESSEJANA"],
+    ["020104", "SÃO JOÃO DE NEGRILHOS"],
+    ["020106", "União das freguesias de Aljustrel e Rio de Moinhos"]
+  ],
+
+  "0202": [
+    ["020203", "ROSÁRIO"],
+    ["020205", "SANTA CRUZ"],
+    ["020206", "SÃO BARNABÉ"],
+    ["020208", "ALDEIA DOS FERNANDES"],
+    ["020209", "União das freguesias de Almodôvar e Graça dos Padrões"],
+    ["020210", "União das freguesias de Santa Clara-a-Nova e Gomes Aires"]
+  ],
+
+  "0203": [
+    ["020301", "ALVITO"],
+    ["020302", "VILA NOVA DA BARONIA"]
+  ],
+
+  "0204": [["020401", "BARRANCOS"]],
+
+  "0205": [
+    ["020502", "BALEIZÃO"],
+    ["020503", "BERINGEL"],
+    ["020504", "CABEÇA GORDA"],
+    ["020506", "NOSSA SENHORA DAS NEVES"],
+    ["020510", "SANTA CLARA DE LOUREDO"],
+    ["020516", "SÃO MATIAS"],
+    ["020519", "União das freguesias de Albernoa e Trindade"],
+    [
+      "020520",
+
+      "União das freguesias de Beja (Salvador e Santa Maria da Feira)"
+    ],
+    [
+      "020521",
+      "União das freguesias de Beja (Santiago Maior e São João Baptista)"
+    ],
+    ["020522", "União das freguesias de Salvada e Quintos"],
+    ["020523", "União das freguesias de Santa Vitória e Mombeja"],
+    ["020524", "União das freguesias de Trigaches e São Brissos"]
+  ],
+
+  "0206": [
+    ["020603", "ENTRADAS"],
+    ["020604", "SANTA BÁRBARA DE PADRÕES"],
+    ["020605", "SÃO MARCOS DA ATABOEIRA"],
+    ["020606", "União das freguesias de Castro Verde e Casével"]
+  ],
+
+  "0207": [
+    ["020701", "CUBA"],
+    ["020702", "FARO DO ALENTEJO"],
+    ["020703", "VILA ALVA"],
+    ["020704", "VILA RUIVA"]
+  ],
+
+  "0208": [
+    ["020803", "FIGUEIRA DOS CAVALEIROS"],
+    ["020804", "ODIVELAS"],
+    ["020807", "União das freguesias de Alfundão e Peroguarda"],
+    ["020808", "União das freguesias de Ferreira do Alentejo e Canhestros"]
+  ],
+
+  "0209": [
+    ["020901", "ALCARIA RUIVA"],
+    ["020902", "CORTE DO PINTO"],
+    ["020903", "ESPÍRITO SANTO"],
+    ["020904", "MÉRTOLA"],
+    ["020905", "SANTANA DE CAMBAS"],
+    ["020906", "SÃO JOÃO DOS CALDEIREIROS"],
+    [
+      "020910",
+
+      "União das freguesias de São Miguel do Pinheiro, São Pedro de Solis e São Sebastião dos Carros"
+    ]
+  ],
+
+  "0210": [
+    ["021001", "AMARELEJA"],
+    ["021002", "PÓVOA DE SÃO MIGUEL"],
+    ["021008", "SOBRAL DA ADIÇA"],
+    [
+      "021009",
+      "União das freguesias de Moura (Santo Agostinho e São João Baptista) e Santo Amador"
+    ],
+    ["021010", "União das freguesias de Safara e Santo Aleixo da Restauração"]
+  ],
+
+  "0211": [
+    ["021102", "RELÍQUIAS"],
+    ["021103", "SABOIA"],
+    ["021106", "SÃO LUÍS"],
+    ["021107", "SÃO MARTINHO DAS AMOREIRAS"],
+    ["021111", "VILA NOVA DE MILFONTES"],
+    ["021115", "LUZIANES-GARE"],
+    ["021116", "BOAVISTA DOS PINHEIROS"],
+    ["021117", "LONGUEIRA/ALMOGRAVE"],
+    ["021118", "COLOS"],
+    ["021119", "SANTA CLARA-A-VELHA"],
+    ["021120", "São Salvador e Santa Maria"],
+    ["021121", "SÃO TEOTÓNIO"],
+    ["021122", "VALE DE SANTIAGO"]
+  ],
+
+  "0212": [
+    ["021203", "OURIQUE"],
+    ["021206", "SANTANA DA SERRA"],
+    ["021207", "União das freguesias de Garvão e Santa Luzia"],
+    ["021208", "União das freguesias de Panoias e Conceição "]
+  ],
+
+  "0213": [
+    ["021302", "BRINCHES"],
+    ["021303", "PIAS"],
+    ["021307", "VILA VERDE DE FICALHO"],
+    ["021308", "União das freguesias de Serpa (Salvador e Santa Maria)"],
+    ["021309", "União das freguesias de Vila Nova de São Bento e Vale de Vargo"]
+  ],
+
+  "0214": [
+    ["021401", "PEDRÓGÃO"],
+    ["021402", "SELMES"],
+    ["021403", "VIDIGUEIRA"],
+    ["021404", "VILA DE FRADES"]
+  ],
+
+  "0301": [
+    ["030102", "BARREIROS"],
+    ["030104", "BICO"],
+    ["030105", "CAIRES"],
+    ["030107", "CARRAZEDO"],
+    ["030108", "DORNELAS"],
+    ["030111", "FISCAL"],
+    ["030112", "GOÃES"],
+    ["030113", "LAGO"],
+    ["030118", "RENDUFE"],
+    ["030119", "BOURO (SANTA MARIA)"],
+    ["030120", "BOURO (SANTA MARTA)"],
+    ["030125", "União das freguesias de Amares e Figueiredo"],
+    ["030126", "União das freguesias de Caldelas, Sequeiros e Paranhos"],
+    ["030127", "União das freguesias de Ferreiros, Prozelo e Besteiros"],
+    ["030128", "União das freguesias de Torre e Portela"],
+    ["030129", "União das freguesias de Vilela, Seramil e Paredes Secas"]
+  ],
+
+  "0302": [
+    ["030201", "ABADE DE NEIVA"],
+    ["030202", "ABORIM"],
+    ["030203", "ADÃES"],
+    ["030205", "AIRÓ"],
+    ["030206", "ALDREU"],
+    ["030208", "ALVELOS"],
+    ["030209", "ARCOZELO"],
+    ["030210", "AREIAS"],
+    ["030212", "BALUGÃES"],
+    ["030213", "BARCELINHOS"],
+    ["030215", "BARQUEIROS"],
+    ["030216", "CAMBESES"],
+    ["030218", "CARAPEÇOS"],
+    ["030220", "CARVALHAL"],
+    ["030221", "CARVALHAS"],
+    ["030224", "COSSOURADO"],
+    ["030228", "CRISTELO"],
+    ["030234", "FORNELOS"],
+    ["030235", "FRAGOSO"],
+    ["030237", "GILMONDE"],
+    ["030242", "LAMA"],
+    ["030243", "LIJÓ"],
+    ["030244", "MACIEIRA DE RATES"],
+    ["030245", "MANHENTE"],
+    ["030247", "MARTIM"],
+    ["030252", "MOURE"],
+    ["030254", "OLIVEIRA"],
+    ["030255", "PALME"],
+    ["030256", "PANQUE"],
+    ["030257", "PARADELA"],
+    ["030259", "PEREIRA"],
+    ["030260", "PERELHAL"],
+    ["030261", "POUSA"],
+    ["030263", "REMELHE"],
+    ["030264", "RORIZ"],
+    ["030265", "RIO COVO (SANTA EUGÉNIA)"],
+    ["030268", "GALEGOS (SANTA MARIA)"],
+    ["030272", "GALEGOS (SÃO MARTINHO)"],
+    ["030277", "TAMEL (SÃO VERÍSSIMO)"],
+    ["030279", "SILVA"],
+    ["030282", "UCHA"],
+    ["030283", "VÁRZEA"],
+    ["030287", "VILA SECA"],
+    ["030290", "União das freguesias de Alheira e Igreja Nova"],
+    [
+      "030291",
+      "União das freguesias de Alvito (São Pedro e São Martinho) e Couto"
+    ],
+    ["030292", "União das freguesias de Areias de Vilar e Encourados"],
+    [
+      "030293",
+      "União das freguesias de Barcelos, Vila Boa e Vila Frescainha (São Martinho e São Pedro)"
+    ],
+    ["030294", "União das freguesias de Campo e Tamel (São Pedro Fins)"],
+    ["030295", "União das freguesias de Carreira e Fonte Coberta"],
+    [
+      "030296",
+      "União das freguesias de Chorente, Góios, Courel, Pedra Furada e Gueral"
+    ],
+    ["030297", "União das freguesias de Creixomil e Mariz"],
+    ["030298", "União das freguesias de Durrães e Tregosa"],
+    ["030299", "União das freguesias de Gamil e Midões"],
+    ["0302FA", "União das freguesias de Milhazes, Vilar de Figos e Faria"],
+    ["0302FB", "União das freguesias de Negreiros e Chavão"],
+    ["0302FC", "União das freguesias de Quintiães e Aguiar"],
+    [
+      "0302FD",
+      "União das freguesias de Sequeade e Bastuço (São João e Santo Estevão)"
+    ],
+    ["0302FE", "União das freguesias de Silveiros e Rio Covo (Santa Eulália)"],
+    [
+      "0302FF",
+      "União das freguesias de Tamel (Santa Leocádia) e Vilar do Monte"
+    ],
+    [
+      "0302FG",
+      "União das freguesias de Viatodos, Grimancelos, Minhotães e Monte de Fralães"
+    ],
+    ["0302FH", "União das freguesias de Vila Cova e Feitos"]
+  ],
+
+  "0303": [
+    ["030301", "ADAÚFE"],
+    ["030312", "ESPINHO"],
+    ["030313", "ESPORÕES"],
+    ["030315", "Figueiredo"],
+    ["030319", "GUALTAR"],
+    ["030322", "LAMAS"],
+    ["030325", "MIRE DE TIBÃES"],
+    ["030330", "PADIM DA GRAÇA"],
+    ["030331", "PALMEIRA"],
+    ["030334", "PEDRALVA"],
+    ["030336", "PRISCOS"],
+    ["030338", "RUILHE"],
+    ["030349", "BRAGA (SÃO VICENTE)"],
+    ["030351", "BRAGA (SÃO VÍTOR)"],
+    ["030354", "SEQUEIRA"],
+    ["030355", "SOBREPOSTA"],
+    ["030356", "TADIM"],
+    ["030357", "TEBOSA"],
+    ["030363", "União das freguesias de Arentim e Cunha"],
+    ["030364", "União das freguesias de Braga (Maximinos, Sé e Cividade)"],
+    [
+      "030365",
+      "União das freguesias de Braga (São José de São Lázaro e São João do Souto)"
+    ],
+    ["030366", "União das freguesias de Cabreiros e Passos (São Julião)"],
+    ["030367", "União das freguesias de Celeirós, Aveleda e Vimieiro"],
+    ["030368", "União das freguesias de Crespos e Pousada"],
+    [
+      "030369",
+      "União das freguesias de Escudeiros e Penso (Santo Estêvão e São Vicente)"
+    ],
+    ["030370", "União das freguesias de Este (São Pedro e São Mamede)"],
+    ["030371", "União das freguesias de Ferreiros e Gondizalves"],
+    ["030372", "União das freguesias de Guisande e Oliveira (São Pedro)"],
+    ["030373", "União das freguesias de Lomar e Arcos"],
+    [
+      "030374",
+      "União das freguesias de Merelim (São Paio), Panoias e Parada de Tibães"
+    ],
+    ["030375", "União das freguesias de Merelim (São Pedro) e Frossos"],
+    ["030376", "União das freguesias de Morreira e Trandeiras"],
+    ["030377", "União das freguesias de Nogueira, Fraião e Lamaçães"],
+    ["030378", "União das freguesias de Nogueiró e Tenões"],
+    ["030379", "União das freguesias de Real, Dume e Semelhe"],
+    ["030380", "União das freguesias de Santa Lucrécia de Algeriz e Navarra"],
+    ["030381", "União das freguesias de Vilaça e Fradelos"]
+  ],
+
+  "0304": [
+    ["030401", "ABADIM"],
+    ["030404", "BASTO"],
+    ["030405", "BUCOS"],
+    ["030406", "CABECEIRAS DE BASTO"],
+    ["030407", "CAVEZ"],
+    ["030408", "FAIA"],
+    ["030413", "PEDRAÇA"],
+    ["030415", "RIO DOURO"],
+    ["030418", "União das freguesias de Alvite e Passos"],
+    ["030419", "União das freguesias de Arco de Baúlhe e Vila Nune"],
+    ["030420", "União das freguesias de Gondiães e Vilar de Cunhas"],
+    ["030421", "União das freguesias de Refojos de Basto, Outeiro e Painzela"]
+  ],
+
+  "0305": [
+    ["030501", "AGILDE"],
+    ["030502", "ARNÓIA"],
+    ["030503", "BORBA DE MONTANHA"],
+    ["030508", "CODEÇOSO"],
+    ["030510", "FERVENÇA"],
+    ["030515", "MOREIRA DO CASTELO"],
+    ["030517", "REGO"],
+    ["030518", "RIBAS"],
+    ["030520", "BASTO (SÃO CLEMENTE)"],
+    ["030521", "VALE DE BOURO"],
+    ["030523", "União das freguesias de Britelo, Gémeos e Ourilhe"],
+    ["030524", "União das freguesias de Caçarilhe e Infesta"],
+    ["030525", "União das freguesias de Canedo de Basto e Corgo"],
+    ["030526", "União das freguesias de Carvalho e Basto (Santa Tecla)"],
+    ["030527", "União das freguesias de Veade, Gagos e Molares"]
+  ],
+
+  "0306": [
+    ["030601", "ANTAS"],
+    ["030608", "FORJÃES"],
+    ["030610", "GEMESES"],
+    ["030615", "VILA CHÃ"],
+    ["030616", "União das freguesias de Apúlia e Fão"],
+    ["030617", "União das freguesias de Belinho e Mar"],
+    ["030618", "União das freguesias de Esposende, Marinhas e Gandra"],
+    ["030619", "União das freguesias de Fonte Boa e Rio Tinto"],
+    ["030620", "União das freguesias de Palmeira de Faro e Curvos"]
+  ],
+
+  "0307": [
+    ["030705", "ARMIL"],
+    ["030708", "ESTORÃOS"],
+    ["030709", "FAFE"],
+    ["030712", "FORNELOS"],
+    ["030714", "GOLÃES"],
+    ["030716", "MEDELO"],
+    ["030719", "PASSOS"],
+    ["030722", "QUINCHÃES"],
+    ["030723", "REGADAS"],
+    ["030724", "REVELHE"],
+    ["030725", "RIBEIROS"],
+    ["030726", "ARÕES (SANTA CRISTINA)"],
+    ["030728", "SÃO GENS"],
+    ["030729", "SILVARES (SÃO MARTINHO)"],
+    ["030730", "ARÕES (SÃO ROMÃO)"],
+    ["030733", "TRAVASSÓS"],
+    ["030736", "VINHÓS"],
+    ["030737", "União de freguesias de Aboim, Felgueiras, Gontim e Pedraído"],
+    ["030738", "União de freguesias de Agrela e Serafão"],
+    ["030739", "União de freguesias de Antime e Silvares (São Clemente)"],
+    ["030740", "União de freguesias de Ardegão, Arnozela e Seidões"],
+    ["030741", "União de freguesias de Cepães e Fareja"],
+    ["030742", "União de freguesias de Freitas e Vila Cova"],
+    ["030743", "União de freguesias de Monte e Queimadela"],
+    ["030744", "União de freguesias de Moreira do Rei e Várzea Cova"]
+  ],
+
+  "0308": [
+    ["030801", "ALDÃO"],
+    ["030804", "AZURÉM"],
+    ["030806", "BARCO"],
+    ["030807", "BRITO"],
+    ["030808", "CALDELAS"],
+    ["030812", "COSTA"],
+    ["030813", "CREIXOMIL"],
+    ["030815", "FERMENTÕES"],
+    ["030820", "GONÇA"],
+    ["030821", "GONDAR"],
+    ["030823", "GUARDIZELA"],
+    ["030824", "INFANTAS"],
+    ["030827", "LONGOS"],
+    ["030828", "LORDELO"],
+    ["030830", "MESÃO FRIO"],
+    ["030831", "MOREIRA DE CÓNEGOS"],
+    ["030832", "NESPEREIRA"],
+    ["030835", "PENCELO"],
+    ["030836", "PINHEIRO"],
+    ["030837", "POLVOREIRA"],
+    ["030838", "PONTE"],
+    ["030840", "RONFE"],
+    ["030842", "PRAZINS (SANTA EUFÉMIA)"],
+    ["030850", "SELHO (SÃO CRISTOVÃO)"],
+    ["030854", "SELHO (SÃO JORGE)"],
+    ["030857", "CANDOSO (SÃO MARTINHO)"],
+    ["030858", "SANDE (SÃO MARTINHO)"],
+    ["030865", "SÃO TORCATO"],
+    ["030866", "SERZEDELO"],
+    ["030868", "SILVARES"],
+    ["030871", "URGEZES"],
+    ["030875", "União das freguesias de Abação e Gémeos"],
+    [
+      "030876",
+      "União das freguesias de Airão Santa Maria, Airão São João e Vermil"
+    ],
+    ["030877", "União das freguesias de Arosa e Castelões"],
+    ["030878", "União das freguesias de Atães e Rendufe"],
+    ["030879", "União das freguesias de Briteiros Santo Estêvão e Donim"],
+    [
+      "030880",
+      "União das freguesias de Briteiros São Salvador e Briteiros Santa Leocádia"
+    ],
+    ["030881", "União das freguesias de Candoso São Tiago e Mascotelos"],
+    ["030882", "União das freguesias de Conde e Gandarela"],
+    ["030883", "União das freguesias de Leitões, Oleiros e Figueiredo"],
+    ["030884", "União das freguesias de Oliveira, São Paio e São Sebastião"],
+    ["030885", "União das freguesias de Prazins Santo Tirso e Corvite"],
+    ["030886", "União das freguesias de Sande São Lourenço e Balazar"],
+    ["030887", "União das freguesias de Sande Vila Nova e Sande São Clemente"],
+    ["030888", "União das freguesias de Selho São Lourenço e Gominhães"],
+    ["030889", "União das freguesias de Serzedo e Calvos"],
+    [
+      "030890",
+      "União das freguesias de Souto Santa Maria, Souto São Salvador e Gondomar"
+    ],
+    ["030891", "União das freguesias de Tabuadelo e São Faustino"]
+  ],
+
+  "0309": [
+    ["030906", "COVELAS"],
+    ["030908", "FERREIROS"],
+    ["030912", "GALEGOS"],
+    ["030913", "GARFE"],
+    ["030914", "GERAZ DO MINHO"],
+    ["030915", "LANHOSO"],
+    ["030917", "MONSUL"],
+    ["030919", "PÓVOA DE LANHOSO (NOSSA SENHORA DO AMPARO)"],
+    ["030921", "RENDUFINHO"],
+    ["030922", "SANTO EMILIÃO"],
+    ["030923", "SÃO JOÃO DE REI"],
+    ["030924", "SERZEDELO"],
+    ["030925", "SOBRADELO DA GOMA"],
+    ["030926", "TAÍDE"],
+    ["030927", "TRAVASSOS"],
+    ["030929", "VILELA"],
+    ["030930", "União das freguesias de Águas Santas e Moure"],
+    ["030931", "União das freguesias de Calvos e Frades"],
+    ["030932", "União das freguesias de Campos e Louredo"],
+    ["030933", "União das freguesias de Esperança e Brunhais"],
+    ["030934", "União das freguesias de Fonte Arcada e Oliveira"],
+    ["030935", "União das freguesias de Verim, Friande e Ajude"]
+  ],
+
+  "0310": [
+    ["031001", "BALANÇA"],
+    ["031003", "CAMPO DO GERÊS"],
+    ["031004", "CARVALHEIRA"],
+    ["031008", "COVIDE"],
+    ["031009", "GONDORIZ"],
+    ["031010", "MOIMENTA"],
+    ["031012", "RIBEIRA"],
+    ["031013", "RIO CALDO"],
+    ["031014", "SOUTO"],
+    ["031015", "VALDOSENDE"],
+    ["031017", "VILAR DA VEIGA"],
+    ["031018", "União das freguesias de Chamoim e Vilar"],
+    ["031019", "União das freguesias de Chorense e Monte"],
+    ["031020", "União das freguesias de Cibões e Brufe"]
+  ],
+
+  "0311": [
+    ["031105", "CANTELÃES"],
+    ["031107", "EIRA VEDRA"],
+    ["031108", "GUILHOFREI"],
+    ["031109", "LOUREDO"],
+    ["031110", "MOSTEIRO"],
+    ["031111", "PARADA DO BOURO"],
+    ["031112", "PINHEIRO"],
+    ["031113", "ROSSAS"],
+    ["031115", "SALAMONDE"],
+    ["031118", "TABUAÇAS"],
+    ["031120", "VIEIRA DO MINHO"],
+    ["031122", "União das freguesias de Anissó e Soutelo"],
+    ["031123", "União das freguesias de Anjos e Vilar do Chão"],
+    ["031124", "União das freguesias de Caniçada e Soengas"],
+    ["031125", "União das freguesias de Ruivães e Campos"],
+    ["031126", "União das freguesias de Ventosa e Cova"]
+  ],
+
+  "0312": [
+    ["031204", "BAIRRO"],
+    ["031206", "BRUFE"],
+    ["031210", "CASTELÕES"],
+    ["031212", "CRUZ"],
+    ["031213", "DELÃES"],
+    ["031215", "FRADELOS"],
+    ["031216", "GAVIÃO"],
+    ["031219", "JOANE"],
+    ["031221", "LANDIM"],
+    ["031223", "LOURO"],
+    ["031224", "LOUSADO"],
+    ["031225", "MOGEGE"],
+    ["031227", "NINE"],
+    ["031230", "PEDOME"],
+    ["031232", "POUSADA DE SARAMAGOS"],
+    ["031233", "REQUIÃO"],
+    ["031234", "RIBA DE AVE"],
+    ["031235", "RIBEIRÃO"],
+    ["031239", "OLIVEIRA (SANTA MARIA)"],
+    ["031241", "VALE (SÃO MARTINHO)"],
+    ["031242", "OLIVEIRA (SÃO MATEUS)"],
+    ["031247", "VERMOIM"],
+    ["031249", "VILARINHO DAS CAMBAS"],
+    ["031250", "União das freguesias de Antas e Abade de Vermoim"],
+    [
+      "031251",
+      "União das freguesias de Arnoso (Santa Maria e Santa Eulália) e Sezures"
+    ],
+    ["031252", "União das freguesias de Avidos e Lagoa"],
+    ["031253", "União das freguesias de Carreira e Bente"],
+    ["031254", "União das freguesias de Esmeriz e Cabeçudos"],
+    ["031255", "União das freguesias de Gondifelos, Cavalões e Outiz"],
+    ["031256", "União das freguesias de Lemenhe, Mouquim e Jesufrei"],
+    ["031257", "União das freguesias de Ruivães e Novais"],
+    ["031258", "União das freguesias de Seide"],
+    ["031259", "União das freguesias de Vale (São Cosme), Telhado e Portela"],
+    ["031260", "União das freguesias de Vila Nova de Famalicão e Calendário"]
+  ],
+
+  "0313": [
+    ["031304", "ATIÃES"],
+    ["031308", "CABANELAS"],
+    ["031309", "CERVÃES"],
+    ["031311", "COUCIEIRO"],
+    ["031313", "DOSSÃOS"],
+    ["031316", "FREIRIZ"],
+    ["031317", "GêME"],
+    ["031323", "LAGE"],
+    ["031324", "LANHAS"],
+    ["031325", "LOUREIRA"],
+    ["031328", "MOURE"],
+    ["031330", "OLEIROS"],
+    ["031331", "PARADA DE GATIM"],
+    ["031335", "PICO"],
+    ["031337", "PONTE"],
+    ["031340", "SABARIZ"],
+    ["031342", "VILA DE PRADO"],
+    ["031350", "PRADO (SÃO MIGUEL)"],
+    ["031352", "SOUTELO"],
+    ["031354", "TURIZ"],
+    ["031355", "VALDREU"],
+    ["031359", "Aboim da Nóbrega e Gondomar"],
+    ["031360", "União das freguesias da Ribeira do Neiva"],
+    [
+      "031361",
+      "União das freguesias de Carreiras (São Miguel) e Carreiras (Santiago)"
+    ],
+    [
+      "031362",
+      "União das freguesias de Escariz (São Mamede) e Escariz (São Martinho)"
+    ],
+    ["031363", "União das freguesias de Esqueiros, Nevogilde e Travassós"],
+    ["031364", "União das freguesias de Marrancos e Arcozelo"],
+    [
+      "031365",
+      "União das freguesias de Oriz (Santa Marinha) e Oriz (São Miguel)"
+    ],
+    ["031366", "União das freguesias de Pico de Regalados, Gondiães e Mós"],
+    ["031367", "União das freguesias de Sande, Vilarinho, Barros e Gomide"],
+    [
+      "031368",
+      "União das freguesias de Valbom (São Pedro), Passô e Valbom (São Martinho)"
+    ],
+    ["031369", "União das freguesias do Vade"],
+    ["031370", "Vila Verde e Barbudo"]
+  ],
+
+  "0314": [
+    ["031401", "SANTA EULÁLIA"],
+    ["031404", "INFIAS"],
+    ["031406", "VIZELA (SANTO ADRIÃO)"],
+    [
+      "031408",
+      "União das freguesias de Caldas de Vizela (São Miguel e São João)"
+    ],
+    ["031409", "União das freguesias de Tagilde e Vizela (São Paio)"]
+  ],
+
+  "0401": [
+    ["040102", "ALFÂNDEGA DA FÉ"],
+    ["040103", "CEREJAIS"],
+    ["040111", "SAMBADE"],
+    ["040118", "VILAR CHÃO"],
+    ["040119", "VILARELHOS"],
+    ["040120", "VILARES DE VILARIÇA"],
+    ["040121", "União das freguesias de Agrobom, Saldonha e Vale Pereiro"],
+    ["040122", "União das freguesias de Eucisia, Gouveia e Valverde"],
+    ["040123", "União das freguesias de Ferradosa e Sendim da Serra"],
+    ["040124", "União das freguesias de Gebelim e Soeima"],
+    ["040125", "União das freguesias de Parada e Sendim da Ribeira"],
+    ["040126", "União das freguesias de Pombal e Vales"]
+  ],
+
+  "0402": [
+    ["040201", "ALFAIÃO"],
+    ["040203", "BABE"],
+    ["040204", "BAÇAL"],
+    ["040206", "CARRAGOSA"],
+    ["040209", "CASTRO DE AVELÃS"],
+    ["040210", "COELHOSO"],
+    ["040212", "DONAI"],
+    ["040213", "ESPINHOSELA"],
+    ["040215", "FRANÇA"],
+    ["040216", "GIMONDE"],
+    ["040217", "GONDESENDE"],
+    ["040218", "GOSTEI"],
+    ["040219", "GRIJÓ DE PARADA"],
+    ["040221", "MACEDO DO MATO"],
+    ["040224", "MÓS"],
+    ["040225", "NOGUEIRA"],
+    ["040226", "OUTEIRO"],
+    ["040229", "PARÂMIO"],
+    ["040230", "PINELA"],
+    ["040232", "QUINTANILHA"],
+    ["040233", "QUINTELA DE LAMPAÇAS"],
+    ["040234", "RABAL"],
+    ["040236", "REBORDÃOS"],
+    ["040239", "SALSAS"],
+    ["040240", "SAMIL"],
+    ["040241", "SANTA COMBA DE ROSSAS"],
+    ["040244", "SÃO PEDRO DE SARRACENOS"],
+    ["040246", "SENDAS"],
+    ["040247", "SERAPICOS"],
+    ["040248", "SORTES"],
+    ["040249", "ZÓIO"],
+    ["040250", "União das freguesias de Aveleda e Rio de Onor"],
+    ["040251", "União das freguesias de Castrelos e Carrazedo"],
+    ["040252", "União das freguesias de Izeda, Calvelhe e Paradinha Nova"],
+    ["040253", "União das freguesias de Parada e Faílde"],
+    ["040254", "União das freguesias de Rebordainhos e Pombares"],
+    ["040255", "União das freguesias de Rio Frio e Milhão"],
+    ["040256", "União das freguesias de São Julião de Palácios e Deilão"],
+    ["040257", "União das freguesias de Sé, Santa Maria e Meixedo"]
+  ],
+
+  "0403": [
+    ["040304", "CARRAZEDA DE ANSIÃES"],
+    ["040306", "FONTE LONGA"],
+    ["040308", "LINHARES"],
+    ["040309", "MARZAGÃO"],
+    ["040311", "PARAMBOS"],
+    ["040312", "PEREIROS"],
+    ["040313", "PINHAL DO NORTE"],
+    ["040314", "POMBAL"],
+    ["040316", "SEIXO DE ANSIÃES"],
+    ["040318", "VILARINHO DA CASTANHEIRA"],
+    ["040320", "União das freguesias de Amedo e Zedes"],
+    ["040321", "União das freguesias de Belver e Mogo de Malta"],
+    ["040322", "União das freguesias de Castanheiro do Norte e Ribalonga"],
+    ["040323", "União das freguesias de Lavandeira, Beira Grande e Selores"]
+  ],
+
+  "0404": [
+    ["040404", "LIGARES"],
+    ["040406", "POIARES"],
+    ["040407", "União das freguesias de Freixo de Espada à Cinta e Mazouco"],
+    ["040408", "União das freguesias de Lagoaça e Fornos"]
+  ],
+
+  "0405": [
+    ["040502", "AMENDOEIRA"],
+    ["040503", "ARCAS"],
+    ["040507", "CARRAPATAS"],
+    ["040509", "CHACIM"],
+    ["040510", "CORTIÇOS"],
+    ["040511", "CORUJAS"],
+    ["040514", "FERREIRA"],
+    ["040515", "GRIJÓ"],
+    ["040516", "LAGOA"],
+    ["040517", "LAMALONGA"],
+    ["040518", "LAMAS"],
+    ["040519", "LOMBO"],
+    ["040520", "MACEDO DE CAVALEIROS"],
+    ["040521", "MORAIS"],
+    ["040523", "OLMOS"],
+    ["040524", "PEREDO"],
+    ["040526", "SALSELAS"],
+    ["040528", "SEZULFE"],
+    ["040530", "TALHAS"],
+    ["040532", "VALE BENFEITO"],
+    ["040533", "VALE DA PORCA"],
+    ["040534", "VALE DE PRADOS"],
+    ["040536", "VILARINHO DE AGROCHÃO"],
+    ["040538", "VINHAS"],
+    ["040539", "União das freguesias de Ala e Vilarinho do Monte"],
+    ["040540", "União das freguesias de Bornes e Burga"],
+    ["040541", "União das freguesias de Castelãos e Vilar do Monte"],
+    [
+      "040542",
+      "União das freguesias de Espadanedo, Edroso, Murçós e Soutelo Mourisco"
+    ],
+    ["040543", "União das freguesias de Podence e Santa Combinha"],
+    ["040544", "União das freguesias de Talhinhas e Bagueixe"]
+  ],
+
+  "0406": [
+    ["040604", "DUAS IGREJAS"],
+    ["040605", "GENÍSIO"],
+    ["040607", "MALHADAS"],
+    ["040608", "MIRANDA DO DOURO"],
+    ["040609", "PALAÇOULO"],
+    ["040611", "PICOTE"],
+    ["040612", "PÓVOA"],
+    ["040613", "SÃO MARTINHO DE ANGUEIRA"],
+    ["040616", "VILA CHÃ DE BRACIOSA"],
+    ["040618", "União das freguesias de Constantim e Cicouro"],
+    ["040619", "União das freguesias de Ifanes e Paradela"],
+    ["040620", "União das freguesias de Sendim e Atenor"],
+    ["040621", "União das freguesias de Silva e Águas Vivas"]
+  ],
+
+  "0407": [
+    ["040701", "ABAMBRES"],
+    ["040702", "ABREIRO"],
+    ["040703", "AGUIEIRAS"],
+    ["040704", "ALVITES"],
+    ["040708", "BOUÇA"],
+    ["040709", "CABANELAS"],
+    ["040710", "CARAVELAS"],
+    ["040711", "CARVALHAIS"],
+    ["040712", "CEDÃES"],
+    ["040713", "COBRO"],
+    ["040714", "FRADIZELA"],
+    ["040716", "FRECHAS"],
+    ["040718", "LAMAS DE ORELHÃO"],
+    ["040720", "MASCARENHAS"],
+    ["040721", "MIRANDELA"],
+    ["040722", "MÚRIAS"],
+    ["040724", "PASSOS"],
+    ["040727", "SÃO PEDRO VELHO"],
+    ["040728", "SÃO SALVADOR"],
+    ["040729", "SUCÇÃES"],
+    ["040730", "TORRE DE DONA CHAMA"],
+    ["040731", "VALE DE ASNES"],
+    ["040732", "VALE DE GOUVINHAS"],
+    ["040733", "VALE DE SALGUEIRO"],
+    ["040734", "VALE DE TELHAS"],
+    ["040738", "União das freguesias de Avantos e Romeu"],
+    ["040739", "União das Freguesias de Avidados, Navalho e Pereira"],
+    [
+      "040740",
+      "União das freguesias de Barcel, Marmelos e Valverde da Gestosa"
+    ],
+    ["040741", "União das freguesias de Franco e Vila Boa"],
+    ["040742", "União das freguesias de Freixeda e Vila Verde"]
+  ],
+
+  "0408": [
+    ["040801", "AZINHOSO"],
+    ["040802", "BEMPOSTA"],
+    ["040803", "BRUÇÓ"],
+    ["040804", "BRUNHOSO"],
+    ["040807", "CASTELO BRANCO"],
+    ["040808", "CASTRO VICENTE"],
+    ["040809", "MEIRINHOS"],
+    ["040811", "PARADELA"],
+    ["040812", "PENAS ROIAS"],
+    ["040813", "PEREDO DA BEMPOSTA"],
+    ["040815", "SALDANHA"],
+    ["040817", "SÃO MARTINHO DO PESO"],
+    ["040819", "TÓ"],
+    ["040820", "TRAVANCA"],
+    ["040821", "URRÓS"],
+    ["040822", "VALE DA MADRE"],
+    ["040826", "VILA DE ALA"],
+    ["040829", "União das freguesias de Brunhozinho, Castanheira e Sanhoane"],
+    [
+      "040830",
+      "União das freguesias de Mogadouro, Valverde, Vale de Porco e Vilar de Rei"
+    ],
+    ["040831", "União das freguesias de Remondes e Soutelo"],
+    ["040832", "União das freguesias de Vilarinho dos Galegos e Ventozelo"]
+  ],
+
+  "0409": [
+    ["040901", "AÇOREIRA"],
+    ["040903", "CABEÇA BOA"],
+    ["040905", "CARVIÇAIS"],
+    ["040906", "CASTEDO"],
+    ["040909", "HORTA DA VILARIÇA"],
+    ["040910", "LARINHO"],
+    ["040911", "LOUSA"],
+    ["040913", "MÓS"],
+    ["040916", "TORRE DE MONCORVO"],
+    ["040918", "União das freguesias de Adeganha e Cardanha"],
+    ["040919", "União das freguesias de Felgar e Souto da Velha"],
+    ["040920", "União das freguesias de Felgueiras e Maçores"],
+    ["040921", "União das freguesias de Urros e Peredo dos Castelhanos"]
+  ],
+
+  "0410": [
+    ["041002", "BENLHEVAI"],
+    ["041005", "FREIXIEL"],
+    ["041009", "ROIOS"],
+    ["041010", "SAMÕES"],
+    ["041011", "SAMPAIO"],
+    ["041012", "SANTA COMBA DE VILARIÇA"],
+    ["041013", "SEIXO DE MANHOSES"],
+    ["041014", "TRINDADE"],
+    ["041015", "VALE FRECHOSO"],
+    ["041020", "União das freguesias de Assares e Lodões"],
+    ["041021", "União das freguesias de Candoso e Carvalho de Egas"],
+    ["041022", "União das freguesias de Valtorno e Mourão"],
+    ["041023", "União das freguesias de Vila Flor e Nabo"],
+    ["041024", "União das freguesias de Vilas Boas e Vilarinho das Azenhas"]
+  ],
+
+  "0411": [
+    ["041103", "ARGOZELO"],
+    ["041107", "CARÇÃO"],
+    ["041108", "MATELA"],
+    ["041109", "PINELO"],
+    ["041110", "SANTULHÃO"],
+    ["041113", "VILAR SECO"],
+    ["041114", "VIMIOSO"],
+    ["041115", "União das freguesias de Algoso, Campo de Víboras e Uva"],
+    ["041116", "União das freguesias de Caçarelhos e Angueira"],
+    ["041117", "União das freguesias de Vale de Frades e Avelanoso"]
+  ],
+
+  "0412": [
+    ["041201", "AGROCHÃO"],
+    ["041203", "CANDEDO"],
+    ["041204", "CELAS"],
+    ["041206", "EDRAL"],
+    ["041207", "EDROSA"],
+    ["041208", "ERVEDOSA"],
+    ["041215", "PAÇÓ"],
+    ["041216", "PENHAS JUNTAS"],
+    ["041219", "REBORDELO"],
+    ["041221", "SANTALHA"],
+    ["041226", "TUIZELO"],
+    ["041227", "VALE DAS FONTES"],
+    ["041229", "VILA BOA DE OUSILHÃO"],
+    ["041230", "VILA VERDE"],
+    ["041232", "VILAR DE OSSOS"],
+    ["041233", "VILAR DE PEREGRINOS"],
+    ["041234", "VILAR SECO DE LOMBA"],
+    ["041235", "VINHAIS"],
+    ["041236", "União das freguesias de Curopos e Vale de Janeiro"],
+    ["041237", "União das freguesias de Moimenta e Montouto"],
+    ["041238", "União das freguesias de Nunes e Ousilhão"],
+    ["041239", "União das freguesias de Quirás e Pinheiro Novo"],
+    ["041240", "União das freguesias de Sobreiro de Baixo e Alvaredos"],
+    ["041241", "União das freguesias de Soeira, Fresulfe e Mofreita"],
+    ["041242", "União das freguesias de Travanca e Santa Cruz"],
+    ["041243", "União das freguesias de Vilar de Lomba e São Jomil"]
+  ],
+
+  "0501": [
+    ["050102", "CARIA"],
+    ["050104", "INGUIAS"],
+    ["050105", "MAÇAINHAS"],
+    ["050106", "União das freguesias de Belmonte e Colmeal da Torre"]
+  ],
+
+  "0502": [
+    ["050201", "ALCAINS"],
+    ["050202", "ALMACEDA"],
+    ["050203", "BENQUERENÇAS"],
+    ["050205", "CASTELO BRANCO"],
+    ["050211", "LARDOSA"],
+    ["050212", "LOURIÇAL DO CAMPO"],
+    ["050214", "MALPICA DO TEJO"],
+    ["050216", "MONFORTE DA BEIRA"],
+    ["050220", "SALGUEIRO DO CAMPO"],
+    ["050221", "SANTO ANDRÉ DAS TOJEIRAS"],
+    ["050222", "SÃO VICENTE DA BEIRA"],
+    ["050223", "SARZEDAS"],
+    ["050225", "TINALHAS"],
+    ["050226", "União das freguesias de Cebolais de Cima e Retaxo"],
+    ["050227", "União das freguesias de Escalos de Baixo e Mata"],
+    ["050228", "União das freguesias de Escalos de Cima e Lousa"],
+    ["050229", "União das freguesias de Freixial e Juncal do Campo"],
+    ["050230", "União das freguesias de Ninho do Açor e Sobral do Campo"],
+    ["050231", "União das freguesias de Póvoa de Rio de Moinhos e Cafede"]
+  ],
+
+  "0503": [
+    ["050302", "ALDEIA DE SÃO FRANCISCO DE ASSIS"],
+    ["050305", "BOIDOBRA"],
+    ["050308", "CORTES DO MEIO"],
+    ["050309", "DOMINGUIZO"],
+    ["050310", "ERADA"],
+    ["050311", "FERRO"],
+    ["050312", "ORJAIS"],
+    ["050314", "PAUL"],
+    ["050315", "PERABOA"],
+    ["050318", "SÃO JORGE DA BEIRA"],
+    ["050322", "SOBRAL DE SÃO MIGUEL"],
+    ["050324", "TORTOSENDO"],
+    ["050325", "UNHAIS DA SERRA"],
+    ["050327", "VERDELHOS"],
+    ["050332", "União das freguesias de Barco e Coutada"],
+    ["050333", "União das freguesias de Cantar-Galo e Vila do Carvalho"],
+    ["050334", "União das freguesias de Casegas e Ourondo"],
+    ["050335", "União das freguesias de Covilhã e Canhoso"],
+    ["050336", "União das freguesias de Peso e Vales do Rio"],
+    ["050337", "União das freguesias de Teixoso e Sarzedo"],
+    ["050338", "União das freguesias de Vale Formoso e Aldeia do Souto"]
+  ],
+
+  "0504": [
+    ["050401", "ALCAIDE"],
+    ["050402", "ALCARIA"],
+    ["050403", "ALCONGOSTA"],
+    ["050406", "ALPEDRINHA"],
+    ["050408", "BARROCA"],
+    ["050410", "BOGAS DE CIMA"],
+    ["050411", "CAPINHA"],
+    ["050412", "CASTELEJO"],
+    ["050413", "CASTELO NOVO"],
+    ["050416", "FATELA"],
+    ["050419", "LAVACOLHOS"],
+    ["050420", "ORCA"],
+    ["050421", "PÊRO VISEU"],
+    ["050424", "SILVARES"],
+    ["050425", "SOALHEIRA"],
+    ["050426", "SOUTO DA CASA"],
+    ["050427", "TELHADO"],
+    ["050431", "ENXAMES"],
+    ["050432", "Três Povos"],
+    ["050433", "União das freguesias de Janeiro de Cima e Bogas de Baixo"],
+    [
+      "050434",
+      "União das freguesias de Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo"
+    ],
+    ["050435", "União das freguesias de Póvoa de Atalaia e Atalaia do Campo"],
+    ["050436", "União das freguesias de Vale de Prazeres e Mata da Rainha"]
+  ],
+
+  "0505": [
+    ["050502", "ALDEIA DE SANTA MARGARIDA"],
+    ["050505", "LADOEIRO"],
+    ["050506", "MEDELIM"],
+    ["050509", "OLEDO"],
+    ["050510", "PENHA GARCIA"],
+    ["050511", "PROENÇA-A-VELHA"],
+    ["050512", "ROSMANINHAL"],
+    ["050514", "SÃO MIGUEL DE ACHA"],
+    ["050516", "TOULÕES"],
+    ["050518", "União das freguesias de Idanha-a-Nova e Alcafozes"],
+    ["050519", "União das freguesias de Monfortinho e Salvaterra do Extremo"],
+    ["050520", "União das freguesias de Monsanto e Idanha-a-Velha"],
+    ["050521", "União das freguesias de Zebreira e Segura"]
+  ],
+
+  "0506": [
+    ["050601", "ÁLVARO"],
+    ["050603", "CAMBAS"],
+    ["050605", "ISNA"],
+    ["050606", "MADEIRÃ"],
+    ["050607", "MOSTEIRO"],
+    ["050609", "ORVALHO"],
+    ["050610", "SARNADAS DE SÃO SIMÃO"],
+    ["050611", "SOBRAL"],
+    ["050613", "Estreito-Vilar Barroco"],
+    ["050614", "Oleiros-Amieira"]
+  ],
+
+  "0507": [
+    ["050704", "ARANHAS"],
+    ["050706", "BENQUERENÇA"],
+    ["050707", "MEIMÃO"],
+    ["050708", "MEIMOA"],
+    ["050710", "PENAMACOR"],
+    ["050711", "SALVADOR"],
+    ["050712", "VALE DA SENHORA DA PÓVOA"],
+    [
+      "050713",
+      "União das freguesias de Aldeia do Bispo, Águas e Aldeia de João Pires"
+    ],
+    ["050714", "União das freguesias de Pedrógão de São Pedro e Bemposta"]
+  ],
+
+  "0508": [
+    ["050802", "MONTES DA SENHORA"],
+    ["050805", "SÃO PEDRO DO ESTEVAL"],
+    ["050807", "União das freguesias de Proença-a-Nova e Peral"],
+    ["050808", "União das freguesias de Sobreira Formosa e Alvito da Beira"]
+  ],
+
+  "0509": [
+    ["050901", "CABEÇUDO"],
+    ["050902", "CARVALHAL"],
+    ["050903", "CASTELO"],
+    ["050911", "PEDRÓGÃO PEQUENO"],
+    ["050912", "SERTÃ"],
+    ["050913", "TROVISCAL"],
+    ["050914", "VÁRZEA DOS CAVALEIROS"],
+    [
+      "050915",
+      "União das freguesias de Cernache do Bonjardim, Nesperal e Palhais"
+    ],
+    ["050916", "União das freguesias de Cumeada e Marmeleiro"],
+    ["050917", "União das freguesias de Ermida e Figueiredo"]
+  ],
+
+  "0510": [
+    ["051001", "FUNDADA"],
+    ["051002", "SÃO JOÃO DO PESO"],
+    ["051003", "VILA DE REI"]
+  ],
+
+  "0511": [
+    ["051101", "FRATEL"],
+    ["051102", "PERAIS"],
+    ["051103", "SARNADAS DE RÓDÃO"],
+    ["051104", "VILA VELHA DE RÓDÃO"]
+  ],
+
+  "0601": [
+    ["060102", "ARGANIL"],
+    ["060104", "BENFEITA"],
+    ["060105", "CELAVISA"],
+    ["060109", "FOLQUES"],
+    ["060111", "PIÓDÃO"],
+    ["060112", "POMARES"],
+    ["060113", "POMBEIRO DA BEIRA"],
+    ["060114", "SÃO MARTINHO DA CORTIÇA"],
+    ["060115", "SARZEDO"],
+    ["060116", "SECARIAS"],
+    ["060119", "União das freguesias de Cepos e Teixeira"],
+    ["060120", "União das freguesias de Cerdeira e Moura da Serra"],
+    ["060121", "União das freguesias de Côja e Barril de Alva"],
+    ["060122", "União das freguesias de Vila Cova de Alva e Anseriz"]
+  ],
+
+  "0602": [
+    ["060201", "ANÇÃ"],
+    ["060203", "CADIMA"],
+    ["060205", "CORDINHÃ"],
+    ["060207", "FEBRES"],
+    ["060208", "MURTEDE"],
+    ["060209", "OURENTÃ"],
+    ["060214", "TOCHA"],
+    ["060215", "SÃO CAETANO"],
+    ["060218", "SANGUINHEIRA"],
+    ["060220", "União das freguesias de Cantanhede e Pocariça"],
+    ["060221", "União das freguesias de Covões e Camarneira"],
+    ["060222", "União das freguesias de Portunhos e Outil"],
+    ["060223", "União das freguesias de Sepins e Bolho"],
+    ["060224", "União das freguesias de Vilamar e Corticeiro de Cima"]
+  ],
+
+  "0603": [
+    ["060301", "ALMALAGUÊS"],
+    ["060309", "BRASFEMES"],
+    ["060311", "CEIRA"],
+    ["060312", "CERNACHE"],
+    ["060318", "SANTO ANTÓNIO DOS OLIVAIS"],
+    ["060320", "SÃO JOÃO DO CAMPO"],
+    ["060324", "SÃO SILVESTRE"],
+    ["060329", "TORRES DO MONDEGO"],
+    ["060332", "União das freguesias de Antuzede e Vil de Matos"],
+    ["060333", "União das freguesias de Assafarge e Antanhol"],
+    [
+      "060334",
+      "União das freguesias de Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu)"
+    ],
+    ["060335", "União das freguesias de Eiras e São Paulo de Frades"],
+    ["060336", "União das freguesias de Santa Clara e Castelo Viegas"],
+    ["060337", "União das freguesias de São Martinho de Árvore e Lamarosa"],
+    [
+      "060338",
+      "União das freguesias de São Martinho do Bispo e Ribeira de Frades"
+    ],
+    ["060339", "União das freguesias de Souselas e Botão"],
+    ["060340", "União das freguesias de Taveiro, Ameal e Arzila"],
+    ["060341", "União das freguesias de Trouxemil e Torre de Vilela"]
+  ],
+
+  "0604": [
+    ["060401", "ANOBRA"],
+    ["060406", "EGA"],
+    ["060407", "FURADOURO"],
+    ["060410", "ZAMBUJAL"],
+    ["060411", "União das freguesias de Condeixa-a-Velha e Condeixa-a-Nova"],
+    ["060412", "União das freguesias de Sebal e Belide"],
+    ["060413", "União das freguesias de Vila Seca e Bem da Fé"]
+  ],
+
+  "0605": [
+    ["060502", "ALQUEIDÃO"],
+    ["060507", "MAIORCA"],
+    ["060508", "MARINHA DAS ONDAS"],
+    ["060512", "TAVAREDE"],
+    ["060513", "VILA VERDE"],
+    ["060514", "SÃO PEDRO"],
+    ["060515", "BOM SUCESSO"],
+    ["060518", "MOINHOS DA GÂNDARA"],
+    ["060519", "Alhadas"],
+    ["060520", "Buarcos"],
+    ["060521", "Ferreira-a-Nova"],
+    ["060522", "Lavos"],
+    ["060523", "Paião"],
+    ["060524", "Quiaios"]
+  ],
+
+  "0606": [
+    ["060601", "ALVARES"],
+    ["060604", "GÓIS"],
+    ["060605", "VILA NOVA DO CEIRA"],
+    ["060606", "União das freguesias de Cadafaz e Colmeal"]
+  ],
+
+  "0607": [
+    ["060704", "SERPINS"],
+    ["060706", "GÂNDARAS"],
+    ["060707", "União das freguesias de Foz de Arouce e Casal de Ermio"],
+    ["060708", "União das freguesias de Lousã e Vilarinho"]
+  ],
+
+  "0608": [
+    ["060801", "MIRA"],
+    ["060802", "SEIXO"],
+    ["060803", "CARAPELHOS"],
+    ["060804", "PRAIA DE MIRA"]
+  ],
+
+  "0609": [
+    ["060901", "LAMAS"],
+    ["060902", "MIRANDA DO CORVO"],
+    ["060905", "VILA NOVA"],
+    ["060906", "União das freguesias de Semide e Rio Vide"]
+  ],
+
+  "0610": [
+    ["061002", "ARAZEDE"],
+    ["061003", "CARAPINHEIRA"],
+    ["061005", "LICEIA"],
+    ["061006", "MEÃS DO CAMPO"],
+    ["061008", "PEREIRA"],
+    ["061009", "SANTO VARÃO"],
+    ["061010", "SEIXO DE GATÕES"],
+    ["061011", "TENTÚGAL"],
+    ["061014", "EREIRA"],
+    [
+      "061015",
+      "União das freguesias de Abrunheira, Verride e Vila Nova da Barca"
+    ],
+    ["061016", "União das freguesias de Montemor-o-Velho e Gatões"]
+  ],
+
+  "0611": [
+    ["061101", "ALDEIA DAS DEZ"],
+    ["061102", "ALVOCO DAS VÁRZEAS"],
+    ["061103", "AVÔ"],
+    ["061104", "BOBADELA"],
+    ["061106", "LAGARES"],
+    ["061109", "LOUROSA"],
+    ["061110", "MERUGE"],
+    ["061111", "NOGUEIRA DO CRAVO"],
+    ["061115", "SÃO GIÃO"],
+    ["061118", "SEIXO DA BEIRA"],
+    ["061119", "TRAVANCA DE LAGOS"],
+    ["061122", "União das freguesias de Ervedal e Vila Franca da Beira"],
+    ["061123", "União das freguesias de Lagos da Beira e Lajeosa"],
+    [
+      "061124",
+      "União das freguesias de Oliveira do Hospital e São Paio de Gramaços"
+    ],
+    [
+      "061125",
+      "União das freguesias de Penalva de Alva e São Sebastião da Feira"
+    ],
+    ["061126", "União das freguesias de Santa Ovaia e Vila Pouca da Beira"]
+  ],
+
+  "0612": [
+    ["061201", "CABRIL"],
+    ["061202", "DORNELAS DO ZÊZERE"],
+    ["061204", "JANEIRO DE BAIXO"],
+    ["061206", "PAMPILHOSA DA SERRA"],
+    ["061207", "PESSEGUEIRO"],
+    ["061209", "UNHAIS-O-VELHO"],
+    ["061211", "Fajão-Vidual"],
+    ["061212", "Portela do Fojo-Machio"]
+  ],
+
+  "0613": [
+    ["061301", "CARVALHO"],
+    ["061302", "FIGUEIRA DE LORVÃO"],
+    ["061304", "LORVÃO"],
+    ["061307", "PENACOVA"],
+    ["061310", "SAZES DO LORVÃO"],
+    ["061312", "União das freguesias de Friúmes e Paradela"],
+    [
+      "061313",
+      "União das freguesias de Oliveira do Mondego e Travanca do Mondego"
+    ],
+    [
+      "061314",
+      "União das freguesias de São Pedro de Alva e São Paio de Mondego"
+    ]
+  ],
+
+  "0614": [
+    ["061401", "CUMEEIRA"],
+    ["061402", "ESPINHAL"],
+    ["061403", "PODENTES"],
+    ["061407", "União das freguesias de São Miguel, Santa Eufémia e Rabaçal"]
+  ],
+
+  "0615": [
+    ["061501", "ALFARELOS"],
+    ["061504", "FIGUEIRÓ DO CAMPO"],
+    ["061506", "GRANJA DO ULMEIRO"],
+    ["061508", "SAMUEL"],
+    ["061509", "SOURE"],
+    ["061510", "TAPÉUS"],
+    ["061511", "VILA NOVA DE ANÇOS"],
+    ["061512", "VINHA DA RAINHA"],
+    ["061513", "União das freguesias de Degracias e Pombalinho"],
+    ["061514", "União das freguesias de Gesteira e Brunhós"]
+  ],
+
+  "0616": [
+    ["061602", "CANDOSA"],
+    ["061603", "CARAPINHA"],
+    ["061608", "MIDÕES"],
+    ["061609", "MOURONHO"],
+    ["061611", "PÓVOA DE MIDÕES"],
+    ["061612", "SÃO JOÃO DA BOA VISTA"],
+    ["061614", "TÁBUA"],
+    ["061616", "União das freguesias de Ázere e Covelo"],
+    ["061617", "União das freguesias de Covas e Vila Nova de Oliveirinha"],
+    ["061618", "União das freguesias de Espariz e Sinde"],
+    ["061619", "União das freguesias de Pinheiro de Coja e Meda de Mouros"]
+  ],
+
+  "0617": [
+    ["061701", "ARRIFANA"],
+    ["061702", "LAVEGADAS"],
+    ["061703", "POIARES (SANTO ANDRÉ)"],
+    ["061704", "SÃO MIGUEL DE POIARES"]
+  ],
+
+  "0701": [
+    ["070103", "SANTIAGO MAIOR"],
+    ["070104", "CAPELINS (SANTO ANTÓNIO)"],
+    ["070105", "TERENA (SÃO PEDRO)"],
+    [
+      "070107",
+      "União das freguesias de Alandroal (Nossa Senhora da Conceição), São Brás dos Matos (Mina do Bugalho) e Juromenha (Nossa Senhora do Loreto)"
+    ]
+  ],
+
+  "0702": [
+    ["070201", "ARRAIOLOS"],
+    ["070202", "IGREJINHA"],
+    ["070206", "VIMIEIRO"],
+    ["070208", "União das freguesias de Gafanhoeira (São Pedro) e Sabugueiro"],
+    ["070209", "União das freguesias de São Gregório e Santa Justa"]
+  ],
+
+  "0703": [
+    ["070301", "BORBA (MATRIZ)"],
+    ["070302", "ORADA"],
+    ["070303", "RIO DE MOINHOS"],
+    ["070304", "BORBA (SÃO BARTOLOMEU)"]
+  ],
+
+  "0704": [
+    ["070401", "ARCOS"],
+    ["070402", "GLÓRIA"],
+    ["070404", "ÉVORA MONTE (SANTA MARIA)"],
+    ["070411", "SÃO DOMINGOS DE ANA LOURA"],
+    ["070413", "VEIROS"],
+    ["070414", "União das freguesias de Estremoz (Santa Maria e Santo André)"],
+    ["070415", "União das freguesias de São Bento do Cortiço e Santo Estêvão"],
+    [
+      "070416",
+      "União das freguesias de São Lourenço de Mamporcão e São Bento de Ana Loura"
+    ],
+    ["070417", "União das freguesias do Ameixial (Santa Vitória e São Bento)"]
+  ],
+
+  "0705": [
+    ["070502", "NOSSA SENHORA DA GRAÇA DO DIVOR"],
+    ["070503", "NOSSA SENHORA DE MACHEDE"],
+    ["070506", "SÃO BENTO DO MATO"],
+    ["070509", "SÃO MIGUEL DE MACHEDE"],
+    ["070513", "TORRE DE COELHEIROS"],
+    ["070515", "CANAVIAIS"],
+    ["070522", "União das freguesias de Bacelo e Senhora da Saúde"],
+    [
+      "070523",
+      "União das freguesias de Évora (São Mamede, Sé, São Pedro e Santo Antão)"
+    ],
+    ["070524", "União das freguesias de Malagueira e Horta das Figueiras"],
+    [
+      "070525",
+      "União das freguesias de Nossa Senhora da Tourega e Nossa Senhora de Guadalupe"
+    ],
+    ["070526", "União das freguesias de São Manços e São Vicente do Pigeiro"],
+    [
+      "070527",
+      "União das freguesias de São Sebastião da Giesteira e Nossa Senhora da Boa Fé"
+    ]
+  ],
+
+  "0706": [
+    ["070601", "CABRELA"],
+    ["070605", "SANTIAGO DO ESCOURAL"],
+    ["070606", "SÃO CRISTÓVÃO"],
+    ["070607", "CIBORRO"],
+    ["070610", "FOROS DE VALE DE FIGUEIRA"],
+    ["070611", "União das freguesias de Cortiçadas de Lavre e Lavre"],
+    [
+      "070612",
+      "União das freguesias de Nossa Senhora da Vila, Nossa Senhora do Bispo e Silveiras"
+    ]
+  ],
+
+  "0707": [
+    ["070701", "BROTAS"],
+    ["070702", "CABEÇÃO"],
+    ["070703", "MORA"],
+    ["070704", "PAVIA"]
+  ],
+
+  "0708": [
+    ["070801", "GRANJA"],
+    ["070802", "LUZ"],
+    ["070803", "MOURÃO"]
+  ],
+
+  "0709": [
+    ["070903", "MONTE DO TRIGO"],
+    ["070905", "PORTEL"],
+    ["070906", "SANTANA"],
+    ["070908", "VERA CRUZ"],
+    ["070909", "União das freguesias de Amieira e Alqueva"],
+    ["070910", "União das freguesias de São Bartolomeu do Outeiro e Oriola"]
+  ],
+
+  "0710": [
+    ["071001", "MONTOITO"],
+    ["071002", "REDONDO"]
+  ],
+
+  "0711": [
+    ["071102", "CORVAL"],
+    ["071103", "MONSARAZ"],
+    ["071104", "REGUENGOS DE MONSARAZ"],
+    ["071106", "União das freguesias de Campo e Campinho"]
+  ],
+
+  "0712": [
+    ["071201", "VENDAS NOVAS"],
+    ["071202", "LANDEIRA"]
+  ],
+
+  "0713": [
+    ["071301", "ALCÁÇOVAS"],
+    ["071302", "VIANA DO ALENTEJO"],
+    ["071303", "AGUIAR"]
+  ],
+
+  "0714": [
+    ["071401", "BENCATEL"],
+    ["071402", "CILADAS"],
+    ["071404", "PARDAIS"],
+    ["071406", "Nossa Senhora da Conceição e São Bartolomeu"]
+  ],
+
+  "0801": [
+    ["080102", "GUIA"],
+    ["080103", "PADERNE"],
+    ["080104", "FERREIRAS"],
+    ["080106", "Albufeira e Olhos de Água"]
+  ],
+
+  "0802": [
+    ["080202", "GIÕES"],
+    ["080203", "MARTIM LONGO"],
+    ["080205", "VAQUEIROS"],
+    ["080206", "União das freguesias de Alcoutim e Pereiro"]
+  ],
+
+  "0803": [
+    ["080301", "ALJEZUR"],
+    ["080302", "BORDEIRA"],
+    ["080303", "ODECEIXE"],
+    ["080304", "ROGIL"]
+  ],
+
+  "0804": [
+    ["080401", "AZINHAL"],
+    ["080402", "CASTRO MARIM"],
+    ["080403", "ODELEITE"],
+    ["080404", "ALTURA"]
+  ],
+
+  "0805": [
+    ["080503", "SANTA BÁRBARA DE NEXE"],
+    ["080506", "MONTENEGRO"],
+    ["080507", "União das freguesias de Conceição e Estoi"],
+    ["080508", "União das freguesias de Faro (Sé e São Pedro)"]
+  ],
+
+  "0806": [
+    ["080602", "FERRAGUDO"],
+    ["080604", "PORCHES"],
+    ["080607", "União das freguesias de Estômbar e Parchal"],
+    ["080608", "União das freguesias de Lagoa e Carvoeiro"]
+  ],
+
+  "0807": [
+    ["080703", "LUZ"],
+    ["080704", "ODIÁXERE"],
+    ["080707", "União das freguesias de Bensafrim e Barão de São João"],
+    ["080708", "União das freguesias de Lagos (São Sebastião e Santa Maria)"]
+  ],
+
+  "0808": [
+    ["080801", "ALMANCIL"],
+    ["080802", "ALTE"],
+    ["080803", "AMEIXIAL"],
+    ["080804", "BOLIQUEIME"],
+    ["080805", "QUARTEIRA"],
+    ["080807", "SALIR"],
+    ["080808", "LOULÉ (SÃO CLEMENTE)"],
+    ["080809", "LOULÉ (SÃO SEBASTIÃO)"],
+    ["080812", "União de freguesias de Querença, Tôr e Benafim"]
+  ],
+
+  "0809": [
+    ["080901", "ALFERCE"],
+    ["080902", "MARMELETE"],
+    ["080903", "MONCHIQUE"]
+  ],
+
+  "0810": [
+    ["081003", "OLHÃO"],
+    ["081004", "PECHÃO"],
+    ["081005", "QUELFES"],
+    ["081006", "União das freguesias de Moncarapacho e Fuseta"]
+  ],
+
+  "0811": [
+    ["081101", "ALVOR"],
+    ["081102", "MEXILHOEIRA GRANDE"],
+    ["081103", "PORTIMÃO"]
+  ],
+
+  "0812": [["081201", "SÃO BRÁS DE ALPORTEL"]],
+
+  "0813": [
+    ["081303", "ARMAÇÃO DE PÊRA"],
+    ["081305", "SÃO BARTOLOMEU DE MESSINES"],
+    ["081306", "SÃO MARCOS DA SERRA"],
+    ["081307", "SILVES"],
+    ["081309", "União das freguesias de Alcantarilha e Pêra"],
+    ["081310", "União das freguesias de Algoz e Tunes"]
+  ],
+
+  "0814": [
+    ["081401", "CACHOPO"],
+    ["081404", "SANTA CATARINA DA FONTE DO BISPO"],
+    ["081408", "SANTA LUZIA"],
+    ["081410", "União das freguesias de Conceição e Cabanas de Tavira"],
+    ["081411", "União das freguesias de Luz de Tavira e Santo Estêvão"],
+    ["081412", "União das freguesias de Tavira (Santa Maria e Santiago)"]
+  ],
+
+  "0815": [
+    ["081501", "BARÃO DE SÃO MIGUEL"],
+    ["081502", "BUDENS"],
+    ["081504", "SAGRES"],
+    ["081506", "Vila do Bispo e Raposeira"]
+  ],
+
+  "0816": [
+    ["081601", "VILA NOVA DE CACELA"],
+    ["081602", "VILA REAL DE SANTO ANTÓNIO"],
+    ["081603", "MONTE GORDO"]
+  ],
+
+  "0901": [
+    ["090102", "CARAPITO"],
+    ["090103", "CORTIÇADA"],
+    ["090105", "DORNELAS"],
+    ["090106", "EIRADO"],
+    ["090107", "FORNINHOS"],
+    ["090109", "PENA VERDE"],
+    ["090110", "PINHEIRO"],
+    ["090114", "União das freguesias de Aguiar da Beira e Coruche"],
+    ["090115", "União das freguesias de Sequeiros e Gradiz"],
+    ["090116", "União das freguesias de Souto de Aguiar da Beira e Valverde"]
+  ],
+
+  "0902": [
+    ["090203", "ALMEIDA"],
+    ["090207", "CASTELO BOM"],
+    ["090209", "FREINEDA"],
+    ["090210", "FREIXO"],
+    ["090213", "MALHADA SORDA"],
+    ["090219", "NAVE DE HAVER"],
+    ["090224", "SÃO PEDRO DE RIO SECO"],
+    ["090227", "VALE DA MULA"],
+    ["090229", "VILAR FORMOSO"],
+    ["090230", "União das freguesias de Amoreira, Parada e Cabreira"],
+    ["090231", "União das freguesias de Azinhal, Peva e Valverde"],
+    [
+      "090232",
+      "União das freguesias de Castelo Mendo, Ade, Monteperobolso e Mesquitela"
+    ],
+    ["090233", "União das freguesias de Junça e Naves"],
+    ["090234", "União das freguesias de Leomil, Mido, Senouras e Aldeia Nova"],
+    ["090235", "União das freguesias de Malpartida e Vale de Coelha"],
+    ["090236", "União das freguesias de Miuzela e Porto de Ovelha"]
+  ],
+
+  "0903": [
+    ["090302", "BARAÇAL"],
+    ["090304", "CARRAPICHANA"],
+    ["090306", "FORNO TELHEIRO"],
+    ["090307", "LAJEOSA DO MONDEGO"],
+    ["090308", "LINHARES"],
+    ["090309", "MAÇAL DO CHÃO"],
+    ["090310", "MESQUITELA"],
+    ["090311", "MINHOCAL"],
+    ["090312", "PRADOS"],
+    ["090314", "RATOEIRA"],
+    ["090318", "VALE DE AZARES"],
+    ["090322", "CASAS DO SOEIRO"],
+    ["090323", "União das freguesias de Açores e Velosa"],
+    [
+      "090324",
+      "União das freguesias de Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego"
+    ],
+    [
+      "090325",
+      "União das freguesias de Cortiçô da Serra, Vide entre Vinhas e Salgueirais"
+    ],
+    ["090326", "União das freguesias de Rapa e Cadafaz"]
+  ],
+
+  "0904": [
+    ["090403", "CASTELO RODRIGO"],
+    ["090406", "ESCALHÃO"],
+    ["090408", "FIGUEIRA DE CASTELO RODRIGO"],
+    ["090410", "MATA DE LOBOS"],
+    ["090415", "VERMIOSA"],
+    [
+      "090418",
+      "União das freguesias de Algodres, Vale de Afonsinho e Vilar de Amargo"
+    ],
+    ["090419", "União das freguesias de Almofala e Escarigo"],
+    ["090420", "União das freguesias de Cinco Vilas e Reigada"],
+    [
+      "090421",
+      "União das freguesias de Freixeda do Torrão, Quintã de Pêro Martins e Penha de Águia"
+    ],
+    ["090422", "União das freguesias do Colmeal e Vilar Torpim"]
+  ],
+
+  "0905": [
+    ["090501", "ALGODRES"],
+    ["090502", "CASAL VASCO"],
+    ["090504", "FIGUEIRÓ DA GRANJA"],
+    ["090505", "FORNOS DE ALGODRES"],
+    ["090507", "INFIAS"],
+    ["090509", "MACEIRA"],
+    ["090510", "MATANÇA"],
+    ["090511", "MUXAGATA"],
+    ["090512", "QUEIRIZ"],
+    ["090517", "União das freguesias de Cortiçô e Vila Chã"],
+    [
+      "090518",
+      "União das freguesias de Juncais, Vila Ruiva e Vila Soeiro do Chão"
+    ],
+    ["090519", "União das freguesias de Sobral Pichorro e Fuinhas"]
+  ],
+
+  "0906": [
+    ["090602", "ARCOZELO"],
+    ["090603", "CATIVELOS"],
+    ["090605", "FOLGOSINHO"],
+    ["090612", "NESPEREIRA"],
+    ["090613", "PAÇOS DA SERRA"],
+    ["090614", "RIBAMONDEGO"],
+    ["090617", "SÃO PAIO"],
+    ["090619", "VILA CORTÊS DA SERRA"],
+    ["090620", "VILA FRANCA DA SERRA"],
+    ["090621", "VILA NOVA DE TAZEM"],
+    ["090623", "União das freguesias de Aldeias e Mangualde da Serra"],
+    ["090624", "União das freguesias de Figueiró da Serra e Freixo da Serra"],
+    ["090625", "Gouveia"],
+    ["090626", "União das freguesias de Melo e Nabais"],
+    ["090627", "União das freguesias de Moimenta da Serra e Vinhó"],
+    ["090628", "União das freguesias de Rio Torto e Lagarinhos"]
+  ],
+
+  "0907": [
+    ["090703", "ALDEIA DO BISPO"],
+    ["090704", "ALDEIA VIÇOSA"],
+    ["090705", "ALVENDRE"],
+    ["090706", "ARRIFANA"],
+    ["090708", "AVELÃS DA RIBEIRA"],
+    ["090709", "BENESPERA"],
+    ["090711", "CASAL DE CINZA"],
+    ["090712", "CASTANHEIRA"],
+    ["090713", "CAVADOUDE"],
+    ["090714", "CODESSEIRO"],
+    ["090716", "FAIA"],
+    ["090717", "FAMALICÃO"],
+    ["090718", "FERNÃO JOANES"],
+    ["090721", "GONÇALO BOCAS"],
+    ["090722", "JOÃO ANTÃO"],
+    ["090723", "MAÇAINHAS"],
+    ["090724", "MARMELEIRO"],
+    ["090725", "MEIOS"],
+    ["090728", "PANOIAS DE CIMA"],
+    ["090729", "PEGA"],
+    ["090730", "PÊRA DO MOÇO"],
+    ["090732", "PORTO DA CARNE"],
+    ["090734", "RAMELA"],
+    ["090738", "SANTANA DA AZINHA"],
+    ["090744", "SOBRAL DA SERRA"],
+    ["090746", "VALE DE ESTRELA"],
+    ["090747", "VALHELHAS"],
+    ["090748", "VELA"],
+    ["090749", "VIDEMONTE"],
+    ["090750", "VILA CORTÊS DO MONDEGO"],
+    ["090751", "VILA FERNANDO"],
+    ["090752", "VILA FRANCA DO DEÃO"],
+    ["090753", "VILA GARCIA"],
+    ["090757", "Gonçalo"],
+    ["090758", "Guarda"],
+    ["090759", "Jarmelo São Miguel"],
+    ["090760", "Jarmelo São Pedro"],
+    ["090761", "União de freguesias de Avelãs de Ambom e Rocamondo"],
+    ["090762", "União de freguesias de Corujeira e Trinta"],
+    ["090763", "União de freguesias de Mizarela, Pêro Soares e Vila Soeiro"],
+    ["090764", "União de freguesias de Pousade e Albardo"],
+    ["090765", "União de freguesias de Rochoso e Monte Margarida"],
+    ["090766", "Adão"]
+  ],
+
+  "0908": [
+    ["090801", "SAMEIRO"],
+    ["090802", "MANTEIGAS (SANTA MARIA)"],
+    ["090803", "MANTEIGAS (SÃO PEDRO)"],
+    ["090804", "VALE DE AMOREIRA"]
+  ],
+
+  "0909": [
+    ["090901", "AVELOSO"],
+    ["090902", "BARREIRA"],
+    ["090905", "CORISCADA"],
+    ["090907", "LONGROIVA"],
+    ["090908", "MARIALVA"],
+    ["090912", "POÇO DO CANTO"],
+    ["090914", "RABAÇAL"],
+    ["090915", "RANHADOS"],
+    ["090917", "Mêda, Outeiro de Gatos e Fonte Longa"],
+    ["090918", "Prova e Casteição"],
+    ["090919", "União das freguesias de Vale Flor, Carvalhal e Pai Penela"]
+  ],
+
+  "0910": [
+    ["091009", "ERVEDOSA"],
+    ["091010", "FREIXEDAS"],
+    ["091012", "LAMEGAL"],
+    ["091013", "LAMEIRAS"],
+    ["091014", "MANIGOTO"],
+    ["091015", "PALA"],
+    ["091017", "PINHEL"],
+    ["091018", "PÍNZIO"],
+    ["091024", "SOURO PIRES"],
+    ["091027", "VASCOVEIRO"],
+    ["091028", "Agregação das freguesias Sul de Pinhel"],
+    ["091029", "Alverca da Beira/Bouça Cova"],
+    ["091030", "Terras de Massueime"],
+    ["091031", "Valbom/Bogalhal"],
+    ["091032", "Alto do Palurdo"],
+    ["091033", "Vale do Côa"],
+    ["091034", "Vale do Massueime"],
+    ["091035", "União das freguesias de Atalaia e Safurdão"]
+  ],
+
+  "0911": [
+    ["091101", "ÁGUAS BELAS"],
+    ["091102", "ALDEIA DO BISPO"],
+    ["091103", "ALDEIA DA PONTE"],
+    ["091106", "ALDEIA VELHA"],
+    ["091107", "ALFAIATES"],
+    ["091109", "BARAÇAL"],
+    ["091110", "BENDADA"],
+    ["091111", "BISMULA"],
+    ["091112", "CASTELEIRO"],
+    ["091113", "CERDEIRA"],
+    ["091114", "FÓIOS"],
+    ["091118", "MALCATA"],
+    ["091120", "NAVE"],
+    ["091123", "QUADRAZAIS"],
+    ["091124", "QUINTAS DE SÃO BARTOLOMEU"],
+    ["091125", "RAPOULA DO CÔA"],
+    ["091126", "REBOLOSA"],
+    ["091127", "RENDO"],
+    ["091133", "SORTELHA"],
+    ["091134", "SOUTO"],
+    ["091136", "VALE DE ESPINHO"],
+    ["091138", "VILA BOA"],
+    ["091139", "VILA DO TOURO"],
+    [
+      "091141",
+
+      "União das freguesias de Aldeia da Ribeira, Vilar Maior e Badamalos"
+    ],
+    ["091142", "União das freguesias de Lajeosa e Forcalhos"],
+    [
+      "091143",
+      "União das freguesias de Pousafoles do Bispo, Pena Lobo e Lomba"
+    ],
+    ["091144", "União das freguesias de Ruvina, Ruivós e Vale das Éguas"],
+    ["091145", "União das freguesias do Sabugal e Aldeia de Santo António"],
+    ["091146", "União das freguesias de Santo Estêvão e Moita"],
+    ["091147", "União das freguesias de Seixo do Côa e Vale Longo"]
+  ],
+
+  "0912": [
+    ["091201", "ALVOCO DA SERRA"],
+    ["091205", "GIRABOLHOS"],
+    ["091207", "LORIGA"],
+    ["091208", "PARANHOS"],
+    ["091209", "PINHANÇOS"],
+    ["091210", "SABUGUEIRO"],
+    ["091212", "SANDOMIL"],
+    ["091213", "SANTA COMBA"],
+    ["091216", "SANTIAGO"],
+    ["091219", "SAZES DA BEIRA"],
+    ["091221", "TEIXEIRA"],
+    ["091224", "TRAVANCINHA"],
+    ["091225", "VALEZIM"],
+    ["091228", "VILA COVA À COELHEIRA"],
+    ["091230", "União das freguesias de Carragozela e Várzea de Meruge"],
+    ["091231", "União das freguesias de Sameice e Santa Eulália"],
+    ["091232", "União das freguesias de Santa Marinha e São Martinho"],
+    ["091233", "União das freguesias de Seia, São Romão e Lapa dos Dinheiros"],
+    ["091234", "União das freguesias de Torrozelo e Folhadosa"],
+    ["091235", "União das freguesias de Tourais e Lajes"],
+    ["091236", "União das freguesias de Vide e Cabeça"]
+  ],
+
+  "0913": [
+    ["091301", "ALDEIA NOVA"],
+    ["091303", "CASTANHEIRA"],
+    ["091304", "COGULA"],
+    ["091305", "CÓTIMOS"],
+    ["091307", "FIÃES"],
+    ["091309", "GRANJA"],
+    ["091310", "GUILHEIRO"],
+    ["091311", "MOIMENTINHA"],
+    ["091312", "MOREIRA DE REI"],
+    ["091313", "PALHAIS"],
+    ["091314", "PÓVOA DO CONCELHO"],
+    ["091315", "REBOLEIRO"],
+    ["091316", "RIO DE MEL"],
+    ["091321", "TAMANHOS"],
+    ["091325", "VALDUJO"],
+    ["091330", "União das freguesias de Freches e Torres"],
+    [
+      "091331",
+      "União das freguesias de Torre do Terrenho, Sebadelhe da Serra e Terrenho"
+    ],
+    [
+      "091332",
+      "União das freguesias de Trancoso (São Pedro e Santa Maria) e Souto Maior"
+    ],
+    ["091333", "União das freguesias de Vale do Seixo e Vila Garcia"],
+    ["091334", "União das freguesias de Vila Franca das Naves e Feital"],
+    ["091335", "União das freguesias de Vilares e Carnicães"]
+  ],
+
+  "0914": [
+    ["091401", "ALMENDRA"],
+    ["091402", "CASTELO MELHOR"],
+    ["091403", "CEDOVIM"],
+    ["091404", "CHÃS"],
+    ["091405", "CUSTÓIAS"],
+    ["091407", "HORTA"],
+    ["091410", "MUXAGATA"],
+    ["091411", "NUMÃO"],
+    ["091412", "SANTA COMBA"],
+    ["091414", "SEBADELHE"],
+    ["091415", "SEIXAS"],
+    ["091416", "TOUÇA"],
+    ["091418", "Freixo de Numão"],
+    ["091419", "Vila Nova de Foz Côa"]
+  ],
+
+  "1001": [
+    ["100102", "ALFEIZERÃO"],
+    ["100104", "BÁRRIO"],
+    ["100105", "BENEDITA"],
+    ["100106", "CELA"],
+    ["100108", "ÉVORA DE ALCOBAÇA"],
+    ["100109", "MAIORGA"],
+    ["100112", "SÃO MARTINHO DO PORTO"],
+    ["100114", "TURQUEL"],
+    ["100116", "VIMEIRO"],
+    ["100120", "Aljubarrota"],
+    ["100121", "União das freguesias de Alcobaça e Vestiaria"],
+    ["100122", "União das freguesias de Coz, Alpedriz e Montes"],
+    ["100123", "União das freguesias de Pataias e Martingança"]
+  ],
+
+  "1002": [
+    ["100201", "ALMOSTER"],
+    ["100204", "MAÇÃS DE DONA MARIA"],
+    ["100205", "PELMÁ"],
+    ["100208", "Alvaiázere"],
+    ["100209", "Pussos São Pedro"]
+  ],
+
+  "1003": [
+    ["100301", "ALVORGE"],
+    ["100303", "AVELAR"],
+    ["100304", "CHÃO DE COUCE"],
+    ["100306", "POUSAFLORES"],
+    ["100307", "SANTIAGO DA GUARDA"],
+    ["100309", "Ansião"]
+  ],
+
+  "1004": [
+    ["100401", "BATALHA"],
+    ["100402", "REGUENGO DO FETAL"],
+    ["100403", "SÃO MAMEDE"],
+    ["100404", "GOLPILHEIRA"]
+  ],
+
+  "1005": [
+    ["100502", "CARVALHAL"],
+    ["100503", "ROLIÇA"],
+    ["100505", "PÓ"],
+    ["100506", "União das freguesias do Bombarral e Vale Covo"]
+  ],
+
+  "1006": [
+    ["100601", "A DOS FRANCOS"],
+    ["100602", "ALVORNINHA"],
+    ["100604", "CARVALHAL BENFEITO"],
+    ["100606", "FOZ DO ARELHO"],
+    ["100607", "LANDAL"],
+    ["100608", "NADADOURO"],
+    ["100609", "SALIR DE MATOS"],
+    ["100611", "SANTA CATARINA"],
+    ["100615", "VIDAIS"],
+    [
+      "100617",
+      "União das freguesias de Caldas da Rainha - Nossa Senhora do Pópulo, Coto e São Gregório"
+    ],
+    [
+      "100618",
+      "União das freguesias de Caldas da Rainha - Santo Onofre e Serra do Bouro"
+    ],
+    ["100619", "União das freguesias de Tornada e Salir do Porto"]
+  ],
+
+  "1007": [
+    ["100703", "União das freguesias de Castanheira de Pêra e Coentral"]
+  ],
+
+  "1008": [
+    ["100801", "AGUDA"],
+    ["100802", "AREGA"],
+    ["100803", "CAMPELO"],
+    ["100806", "União das freguesias de Figueiró dos Vinhos e Bairradas"]
+  ],
+
+  "1009": [
+    ["100901", "AMOR"],
+    ["100902", "ARRABAL"],
+    ["100907", "CARANGUEJEIRA"],
+    ["100909", "COIMBRÃO"],
+    ["100913", "MACEIRA"],
+    ["100915", "MILAGRES"],
+    ["100921", "REGUEIRA DE PONTES"],
+    ["100925", "BAJOUCA"],
+    ["100926", "BIDOEIRA DE CIMA"],
+    ["100932", "União das freguesias de Colmeias e Memória"],
+    ["100933", "União das freguesias de Leiria, Pousos, Barreira e Cortes"],
+    ["100934", "União das freguesias de Marrazes e Barosa"],
+    ["100935", "União das freguesias de Monte Real e Carvide"],
+    ["100936", "União das freguesias de Monte Redondo e Carreira"],
+    ["100937", "União das freguesias de Parceiros e Azoia"],
+    ["100938", "União das freguesias de Santa Catarina da Serra e Chainça"],
+    ["100939", "União das freguesias de Santa Eufémia e Boa Vista"],
+    ["100940", "União das freguesias de Souto da Carpalhosa e Ortigosa"]
+  ],
+
+  "1010": [
+    ["101001", "MARINHA GRANDE"],
+    ["101002", "VIEIRA DE LEIRIA"],
+    ["101003", "MOITA"]
+  ],
+
+  "1011": [
+    ["101101", "FAMALICÃO"],
+    ["101102", "NAZARÉ"],
+    ["101103", "VALADO DOS FRADES"]
+  ],
+
+  "1012": [
+    ["101201", "A DOS NEGROS"],
+    ["101202", "AMOREIRA"],
+    ["101203", "OLHO MARINHO"],
+    ["101207", "VAU"],
+    ["101208", "GAEIRAS"],
+    ["101209", "USSEIRA"],
+    ["101210", "Santa Maria, São Pedro e Sobral da Lagoa"]
+  ],
+
+  "1013": [
+    ["101301", "GRAÇA"],
+    ["101302", "PEDRÓGÃO GRANDE"],
+    ["101303", "VILA FACAIA"]
+  ],
+
+  "1014": [
+    ["101402", "ATOUGUIA DA BALEIA"],
+    ["101405", "SERRA D' EL-REI"],
+    ["101406", "FERREL"],
+    ["101407", "Peniche"]
+  ],
+
+  "1015": [
+    ["101501", "ABIUL"],
+    ["101503", "ALMAGREIRA"],
+    ["101504", "CARNIDE"],
+    ["101505", "CARRIÇO"],
+    ["101506", "LOURIÇAL"],
+    ["101508", "PELARIGA"],
+    ["101509", "POMBAL"],
+    ["101510", "REDINHA"],
+    ["101513", "VERMOIL"],
+    ["101514", "VILA CÃ"],
+    ["101515", "MEIRINHAS"],
+    ["101518", "União das freguesias de Guia, Ilha e Mata Mourisca"],
+    [
+      "101519",
+      "União das freguesias de Santiago e São Simão de Litém e Albergaria dos Doze"
+    ]
+  ],
+
+  "1016": [
+    ["101602", "ALQUEIDÃO DA SERRA"],
+    ["101605", "CALVARIA DE CIMA"],
+    ["101606", "JUNCAL"],
+    ["101608", "MIRA DE AIRE"],
+    ["101609", "PEDREIRAS"],
+    ["101610", "SÃO BENTO"],
+    ["101613", "SERRO VENTOSO"],
+    ["101614", "Porto de Mós - São João Baptista e São Pedro"],
+    ["101615", "União das freguesias de Alvados e Alcaria"],
+    ["101616", "União das freguesias de Arrimal e Mendiga"]
+  ],
+
+  "1101": [
+    ["110106", "CARNOTA"],
+    ["110107", "MECA"],
+    ["110108", "OLHALVO"],
+    ["110109", "OTA"],
+    ["110113", "VENTOSA"],
+    ["110114", "VILA VERDE DOS FRANCOS"],
+    ["110117", "União das freguesias de Abrigada e Cabanas de Torres"],
+    [
+      "110118",
+      "União das freguesias de Aldeia Galega da Merceana e Aldeia Gavinha"
+    ],
+    ["110119", "União das freguesias de Alenquer (Santo Estêvão e Triana)"],
+    ["110120", "União das freguesias de Carregado e Cadafais"],
+    ["110121", "União das freguesias de Ribafria e Pereiro de Palhacana"]
+  ],
+
+  "1102": [
+    ["110201", "ARRANHÓ"],
+    ["110202", "ARRUDA DOS VINHOS"],
+    ["110203", "CARDOSAS"],
+    ["110204", "SANTIAGO DOS VELHOS"]
+  ],
+
+  "1103": [
+    ["110301", "ALCOENTRE"],
+    ["110302", "AVEIRAS DE BAIXO"],
+    ["110303", "AVEIRAS DE CIMA"],
+    ["110304", "AZAMBUJA"],
+    ["110306", "VALE DO PARAÍSO"],
+    ["110307", "VILA NOVA DA RAINHA"],
+    [
+      "110310",
+      "União das freguesias de Manique do Intendente, Vila Nova de São Pedro e Maçussa"
+    ]
+  ],
+
+  "1104": [
+    ["110401", "ALGUBER"],
+    ["110407", "PERAL"],
+    ["110409", "VERMELHA"],
+    ["110410", "VILAR"],
+    ["110411", "União das freguesias do Cadaval e Pêro Moniz"],
+    ["110412", "União das freguesias de Lamas e Cercal"],
+    ["110413", "União das freguesias de Painho e Figueiros"]
+  ],
+
+  "1105": [
+    ["110501", "ALCABIDECHE"],
+    ["110506", "SÃO DOMINGOS DE RANA"],
+    ["110507", "União das freguesias de Carcavelos e Parede"],
+    ["110508", "União das freguesias de Cascais e Estoril"]
+  ],
+
+  "1106": [
+    ["110601", "AJUDA"],
+    ["110602", "ALCÂNTARA"],
+    ["110607", "BEATO"],
+    ["110608", "BENFICA"],
+    ["110610", "CAMPOLIDE"],
+    ["110611", "CARNIDE"],
+    ["110618", "LUMIAR"],
+    ["110621", "MARVILA"],
+    ["110633", "Olivais"],
+    ["110639", "SÃO DOMINGOS DE BENFICA"],
+    ["110654", "Alvalade"],
+    ["110655", "Areeiro"],
+    ["110656", "Arroios"],
+    ["110657", "Avenidas Novas"],
+    ["110658", "Belém"],
+    ["110659", "Campo de Ourique"],
+    ["110660", "Estrela"],
+    ["110661", "Misericórdia"],
+    ["110662", "Parque das Nações"],
+    ["110663", "Penha de França"],
+    ["110664", "Santa Clara"],
+    ["110665", "Santa Maria Maior"],
+    ["110666", "Santo António"],
+    ["110667", "São Vicente"]
+  ],
+
+  "1107": [
+    ["110702", "BUCELAS"],
+    ["110705", "FANHÕES"],
+    ["110707", "LOURES"],
+    ["110708", "LOUSA"],
+    ["110726", "União das freguesias de Moscavide e Portela"],
+    ["110727", "União das freguesias de Sacavém e Prior Velho"],
+    [
+      "110728",
+      "União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela"
+    ],
+    ["110729", "União das freguesias de Santo Antão e São Julião do Tojal"],
+    [
+      "110730",
+      "União das freguesias de Santo António dos Cavaleiros e Frielas"
+    ],
+    ["110731", "União das freguesias de Camarate, Unhos e Apelação"]
+  ],
+
+  "1108": [
+    ["110803", "MOITA DOS FERREIROS"],
+    ["110805", "REGUENGO GRANDE"],
+    ["110806", "SANTA BÁRBARA"],
+    ["110808", "VIMEIRO"],
+    ["110810", "RIBAMAR"],
+    ["110812", "União das freguesias de Lourinhã e Atalaia"],
+    ["110813", "União das freguesias de Miragaia e Marteleira"],
+    ["110814", "União das freguesias de São Bartolomeu dos Galegos e Moledo"]
+  ],
+
+  "1109": [
+    ["110902", "CARVOEIRA"],
+    ["110904", "ENCARNAÇÃO"],
+    ["110906", "ERICEIRA"],
+    ["110909", "MAFRA"],
+    ["110911", "MILHARADO"],
+    ["110913", "SANTO ISIDORO"],
+    ["110918", "União das freguesias de Azueira e Sobral da Abelheira"],
+    [
+      "110919",
+      "União das freguesias de Enxara do Bispo, Gradil e Vila Franca do Rosário"
+    ],
+    ["110920", "União das freguesias de Igreja Nova e Cheleiros"],
+    ["110921", "União das freguesias de Malveira e São Miguel de Alcainça"],
+    [
+      "110922",
+      "União das freguesias de Venda do Pinheiro e Santo Estêvão das Galés"
+    ]
+  ],
+
+  "1110": [
+    ["111002", "BARCARENA"],
+    ["111009", "PORTO SALVO"],
+    [
+      "111012",
+      "União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo"
+    ],
+    ["111013", "União das freguesias de Carnaxide e Queijas"],
+    [
+      "111014",
+      "União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias"
+    ]
+  ],
+
+  "1111": [
+    ["111102", "ALGUEIRÃO-MEM MARTINS"],
+    ["111105", "COLARES"],
+    ["111108", "RIO DE MOURO"],
+    ["111115", "CASAL DE CAMBRA"],
+    ["111122", "União das freguesias de Agualva e Mira-Sintra"],
+    [
+      "111123",
+      "União das freguesias de Almargem do Bispo, Pêro Pinheiro e Montelavar"
+    ],
+    ["111124", "União das freguesias do Cacém e São Marcos"],
+    ["111125", "União das freguesias de Massamá e Monte Abraão"],
+    ["111126", "União das freguesias de Queluz e Belas "],
+    ["111127", "União das freguesias de São João das Lampas e Terrugem"],
+    [
+      "111128",
+      "União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)"
+    ]
+  ],
+
+  "1112": [
+    ["111201", "SANTO QUINTINO"],
+    ["111202", "SAPATARIA"],
+    ["111203", "SOBRAL DE MONTE AGRAÇO"]
+  ],
+
+  "1113": [
+    ["111306", "FREIRIA"],
+    ["111310", "PONTE DO ROL"],
+    ["111311", "RAMALHAL"],
+    ["111314", "SÃO PEDRO DA CADEIRA"],
+    ["111316", "SILVEIRA"],
+    ["111317", "TURCIFAL"],
+    ["111318", "VENTOSA"],
+    ["111321", "União das freguesias de A dos Cunhados e Maceira"],
+    ["111322", "União das freguesias de Campelos e Outeiro da Cabeça"],
+    ["111323", "União das freguesias de Carvoeira e Carmões"],
+    ["111324", "União das freguesias de Dois Portos e Runa"],
+    ["111325", "União das freguesias de Maxial e Monte Redondo"],
+    [
+      "111326",
+      "União das freguesias de Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães"
+    ]
+  ],
+
+  "1114": [
+    ["111408", "VIALONGA"],
+    ["111409", "VILA FRANCA DE XIRA"],
+    [
+      "111412",
+      "União das freguesias de Alhandra, São João dos Montes e Calhandriz"
+    ],
+    ["111413", "União das freguesias de Alverca do Ribatejo e Sobralinho"],
+    ["111414", "União das freguesias de Castanheira do Ribatejo e Cachoeiras"],
+    ["111415", "União das freguesias de Póvoa de Santa Iria e Forte da Casa"]
+  ],
+
+  "1115": [
+    ["111512", "Alfragide"],
+    ["111513", "Águas Livres"],
+    ["111514", "Encosta do Sol"],
+    ["111515", "Falagueira-Venda Nova"],
+    ["111516", "Mina de Água"],
+    ["111517", "Venteira"]
+  ],
+
+  "1116": [
+    ["111603", "ODIVELAS"],
+    ["111608", "União das freguesias de Pontinha e Famões"],
+    ["111609", "União das freguesias de Póvoa de Santo Adrião e Olival Basto"],
+    ["111610", "União das freguesias de Ramada e Caneças"]
+  ],
+
+  "1201": [
+    ["120101", "ALTER DO CHÃO"],
+    ["120102", "CHANCELARIA"],
+    ["120103", "SEDA"],
+    ["120104", "CUNHEIRA"]
+  ],
+
+  "1202": [
+    ["120201", "ASSUNÇÃO"],
+    ["120202", "ESPERANÇA"],
+    ["120203", "MOSTEIROS"]
+  ],
+
+  "1203": [
+    ["120302", "ALDEIA VELHA"],
+    ["120303", "AVIS"],
+    ["120305", "ERVEDAL"],
+    ["120306", "FIGUEIRA E BARROS"],
+    ["120309", "União das freguesias de Alcórrego e Maranhão"],
+    ["120310", "União das freguesias de Benavila e Valongo"]
+  ],
+
+  "1204": [
+    ["120401", "NOSSA SENHORA DA EXPECTAÇÃO"],
+    ["120402", "NOSSA SENHORA DA GRAÇA DOS DEGOLADOS"],
+    ["120403", "SÃO JOÃO BAPTISTA"]
+  ],
+
+  "1205": [
+    ["120501", "NOSSA SENHORA DA GRAÇA DE PÓVOA E MEADAS"],
+    ["120502", "SANTA MARIA DA DEVESA"],
+    ["120503", "SANTIAGO MAIOR"],
+    ["120504", "SÃO JOÃO BAPTISTA"]
+  ],
+
+  "1206": [
+    ["120601", "ALDEIA DA MATA"],
+    ["120604", "GÁFETE"],
+    ["120605", "MONTE DA PEDRA"],
+    [
+      "120607",
+      "União das freguesias de Crato e Mártires, Flor da Rosa e Vale do Peso"
+    ]
+  ],
+
+  "1207": [
+    ["120706", "SANTA EULÁLIA"],
+    ["120707", "SÃO BRÁS E SÃO LOURENÇO"],
+    ["120708", "SÃO VICENTE E VENTOSA"],
+    ["120712", "Assunção, Ajuda, Salvador e Santo Ildefonso"],
+    ["120713", "Caia, São Pedro e Alcáçova"],
+    ["120714", "União das freguesias de Barbacena e Vila Fernando"],
+    ["120715", "União das freguesias de Terrugem e Vila Boim"]
+  ],
+
+  "1208": [
+    ["120801", "CABEÇO DE VIDE"],
+    ["120802", "FRONTEIRA"],
+    ["120803", "SÃO SATURNINO"]
+  ],
+
+  "1209": [
+    ["120902", "BELVER"],
+    ["120903", "COMENDA"],
+    ["120905", "MARGEM"],
+    ["120906", "União das freguesias de Gavião e Atalaia"]
+  ],
+
+  "1210": [
+    ["121001", "BEIRÃ"],
+    ["121002", "SANTA MARIA DE MARVÃO"],
+    ["121003", "SANTO ANTÓNIO DAS AREIAS"],
+    ["121004", "SÃO SALVADOR DA ARAMENHA"]
+  ],
+
+  "1211": [
+    ["121101", "ASSUMAR"],
+    ["121102", "MONFORTE"],
+    ["121103", "SANTO ALEIXO"],
+    ["121104", "VAIAMONTE"]
+  ],
+
+  "1212": [
+    ["121201", "ALPALHÃO"],
+    ["121205", "MONTALVÃO"],
+    ["121207", "SANTANA"],
+    ["121208", "SÃO MATIAS"],
+    ["121210", "TOLOSA"],
+    ["121211", "União das freguesias de Arez e Amieira do Tejo"],
+    [
+      "121212",
+      "União das freguesias de Espírito Santo, Nossa Senhora da Graça e São Simão"
+    ]
+  ],
+
+  "1213": [
+    ["121301", "GALVEIAS"],
+    ["121302", "MONTARGIL"],
+    ["121304", "FOROS DE ARRÃO"],
+    ["121305", "LONGOMEL"],
+    ["121308", "União das freguesias de Ponte de Sor, Tramaga e Vale de Açor"]
+  ],
+
+  "1214": [
+    ["121401", "ALAGOA"],
+    ["121402", "ALEGRETE"],
+    ["121404", "FORTIOS"],
+    ["121410", "URRA"],
+    ["121411", "União das freguesias da Sé e São Lourenço"],
+    ["121412", "União das freguesias de Reguengo e São Julião"],
+    ["121413", "União das freguesias de Ribeira de Nisa e Carreiras"]
+  ],
+
+  "1215": [
+    ["121501", "CANO"],
+    ["121502", "CASA BRANCA"],
+    ["121503", "SANTO AMARO"],
+    ["121504", "SOUSEL"]
+  ],
+
+  "1301": [
+    ["130103", "ANSIÃES"],
+    ["130107", "CANDEMIL"],
+    ["130112", "FREGIM"],
+    ["130115", "FRIDÃO"],
+    ["130117", "GONDAR"],
+    ["130118", "JAZENTE"],
+    ["130119", "LOMBA"],
+    ["130120", "LOUREDO"],
+    ["130121", "LUFREI"],
+    ["130123", "MANCELOS"],
+    ["130126", "PADRONELO"],
+    ["130128", "REBORDELO"],
+    ["130129", "SALVADOR DO MONTE"],
+    ["130134", "GOUVEIA (SÃO SIMÃO)"],
+    ["130135", "TELÕES"],
+    ["130136", "TRAVANCA"],
+    ["130138", "VILA CAIZ"],
+    ["130139", "VILA CHÃ DO MARÃO"],
+    ["130141", "União das freguesias de Aboadela, Sanche e Várzea"],
+    [
+      "130142",
+      "União das freguesias de Amarante (São Gonçalo), Madalena, Cepelos e Gatão"
+    ],
+    ["130143", "União das freguesias de Bustelo, Carneiro e Carvalho de Rei"],
+    ["130144", "União das freguesias de Figueiró (Santiago e Santa Cristina)"],
+    ["130145", "União das freguesias de Freixo de Cima e de Baixo"],
+    ["130146", "União das freguesias de Olo e Canadelo"],
+    ["130147", "Vila Meã"],
+    ["130148", "União das freguesias de Vila Garcia, Aboim e Chapa"]
+  ],
+
+  "1302": [
+    ["130204", "FRENDE"],
+    ["130205", "GESTAÇÔ"],
+    ["130206", "GOVE"],
+    ["130207", "GRILO"],
+    ["130208", "LOIVOS DO MONTE"],
+    ["130215", "SANTA MARINHA DO ZÊZERE"],
+    ["130219", "VALADARES"],
+    ["130220", "VIARIZ"],
+    ["130221", "União das freguesias de Ancede e Ribadouro"],
+    ["130222", "União das freguesias de Baião (Santa Leocádia) e Mesquinhata"],
+    ["130223", "União das freguesias de Campelo e Ovil"],
+    ["130224", "União das freguesias de Loivos da Ribeira e Tresouras"],
+    [
+      "130225",
+      "União das freguesias de Santa Cruz do Douro e São Tomé de Covelas"
+    ],
+    ["130226", "União das freguesias de Teixeira e Teixeiró"]
+  ],
+
+  "1303": [
+    ["130301", "AIÃO"],
+    ["130302", "AIRÃES"],
+    ["130305", "FRIANDE"],
+    ["130306", "IDÃES"],
+    ["130307", "JUGUEIROS"],
+    ["130313", "PENACOVA"],
+    ["130314", "PINHEIRO"],
+    ["130315", "POMBEIRO DE RIBAVIZELA"],
+    ["130317", "REFONTOURA"],
+    ["130318", "REGILDE"],
+    ["130319", "REVINHADE"],
+    ["130324", "SENDIM"],
+    ["130334", "União das freguesias de Macieira da Lixa e Caramos"],
+    [
+      "130335",
+      "União das freguesias de Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure"
+    ],
+    ["130336", "União das freguesias de Pedreira, Rande e Sernande"],
+    ["130337", "União das freguesias de Torrados e Sousa"],
+    ["130338", "União das freguesias de Unhão e Lordelo"],
+    ["130339", "União das freguesias de Vila Cova da Lixa e Borba de Godim"],
+    ["130340", "União das freguesias de Vila Fria e Vizela (São Jorge)"],
+    ["130341", "União das freguesias de Vila Verde e Santão"]
+  ],
+
+  "1304": [
+    ["130405", "LOMBA"],
+    ["130408", "RIO TINTO"],
+    ["130412", "BAGUIM DO MONTE (RIO TINTO)"],
+    ["130413", "União das freguesias de Fânzeres e São Pedro da Cova"],
+    ["130414", "União das freguesias de Foz do Sousa e Covelo"],
+    ["130415", "União das freguesias de Gondomar (São Cosme), Valbom e Jovim"],
+    ["130416", "União das freguesias de Melres e Medas"]
+  ],
+
+  "1305": [
+    ["130502", "AVELEDA"],
+    ["130504", "CAÍDE DE REI"],
+    ["130510", "LODARES"],
+    ["130512", "MACIEIRA"],
+    ["130513", "MEINEDO"],
+    ["130515", "NEVOGILDE"],
+    ["130524", "SOUSELA"],
+    ["130525", "TORNO"],
+    ["130526", "VILAR DO TORNO E ALENTÉM"],
+    [
+      "130527",
+      "União das freguesias de Cernadelo e Lousada (São Miguel e Santa Margarida)"
+    ],
+    ["130528", "União das freguesias de Cristelos, Boim e Ordem"],
+    ["130529", "União das freguesias de Figueiras e Covas"],
+    ["130530", "União das freguesias de Lustosa e Barrosas (Santo Estêvão)"],
+    ["130531", "União das freguesias de Nespereira e Casais"],
+    ["130532", "União das freguesias de Silvares, Pias, Nogueira e Alvarenga"]
+  ],
+
+  "1306": [
+    ["130601", "ÁGUAS SANTAS"],
+    ["130603", "FOLGOSA"],
+    ["130608", "MILHEIRÓS"],
+    ["130609", "MOREIRA"],
+    ["130613", "SÃO PEDRO FINS"],
+    ["130616", "VILA NOVA DA TELHA"],
+    ["130617", "PEDROUÇOS"],
+    ["130618", "Castêlo da Maia"],
+    ["130619", "Cidade da Maia"],
+    ["130620", "Nogueira e Silva Escura"]
+  ],
+
+  "1307": [
+    ["130704", "BANHO E CARVALHOSA"],
+    ["130705", "CONSTANCE"],
+    ["130722", "SOALHÃES"],
+    ["130723", "SOBRETÂMEGA"],
+    ["130724", "TABUADO"],
+    ["130730", "VILA BOA DO BISPO"],
+    ["130732", "Alpendorada, Várzea e Torrão"],
+    ["130733", "Avessadas e Rosém"],
+    ["130734", "Bem Viver"],
+    ["130735", "Livração"],
+    ["130736", "Marco"],
+    ["130737", "Paredes de Viadores e Manhuncelos"],
+    ["130738", "Penhalonga e Paços de Gaiolo"],
+    ["130739", "Sande e São Lourenço do Douro "],
+    ["130740", "Várzea, Aliviada e Folhada"],
+    ["130741", "Vila Boa de Quires e Maureles"]
+  ],
+
+  "1308": [
+    ["130811", "União das freguesias de Custóias, Leça do Balio e Guifões"],
+    ["130812", "União das freguesias de Matosinhos e Leça da Palmeira"],
+    ["130813", "União das freguesias de Perafita, Lavra e Santa Cruz do Bispo"],
+    [
+      "130814",
+      "União das freguesias de São Mamede de Infesta e Senhora da Hora"
+    ]
+  ],
+
+  "1309": [
+    ["130902", "CARVALHOSA"],
+    ["130904", "EIRIZ"],
+    ["130905", "FERREIRA"],
+    ["130906", "FIGUEIRÓ"],
+    ["130908", "FREAMUNDE"],
+    ["130910", "MEIXOMIL"],
+    ["130913", "PENAMAIOR"],
+    ["130914", "RAIMONDA"],
+    ["130916", "SEROA"],
+    ["130917", "Frazão Arreigada"],
+    ["130918", "Paços de Ferreira"],
+    ["130919", "Sanfins Lamoso Codessos"]
+  ],
+
+  "1310": [
+    ["131001", "AGUIAR DE SOUSA"],
+    ["131002", "ASTROMIL"],
+    ["131003", "BALTAR"],
+    ["131004", "BEIRE"],
+    ["131008", "CETE"],
+    ["131009", "CRISTELO"],
+    ["131010", "DUAS IGREJAS"],
+    ["131011", "GANDRA"],
+    ["131013", "LORDELO"],
+    ["131014", "LOUREDO"],
+    ["131017", "PARADA DE TODEIA"],
+    ["131018", "REBORDOSA"],
+    ["131019", "RECAREI"],
+    ["131020", "SOBREIRA"],
+    ["131021", "SOBROSA"],
+    ["131022", "VANDOMA"],
+    ["131024", "VILELA"],
+    ["131025", "Paredes"]
+  ],
+
+  "1311": [
+    ["131101", "ABRAGÃO"],
+    ["131102", "BOELHE"],
+    ["131103", "BUSTELO"],
+    ["131104", "CABEÇA SANTA"],
+    ["131105", "CANELAS"],
+    ["131106", "CAPELA"],
+    ["131107", "CASTELÕES"],
+    ["131108", "CROCA"],
+    ["131109", "DUAS IGREJAS"],
+    ["131110", "EJA"],
+    ["131112", "FONTE ARCADA"],
+    ["131113", "GALEGOS"],
+    ["131115", "IRIVO"],
+    ["131121", "OLDRÕES"],
+    ["131122", "PAÇO DE SOUSA"],
+    ["131125", "PEROZELO"],
+    ["131128", "RANS"],
+    ["131129", "RIO DE MOINHOS"],
+    ["131132", "RECEZINHOS (SÃO MAMEDE)"],
+    ["131133", "RECEZINHOS (SÃO MARTINHO)"],
+    ["131134", "SEBOLIDO"],
+    ["131136", "VALPEDRE"],
+    ["131138", "RIO MAU"],
+    ["131139", "Penafiel"],
+    ["131140", "Luzim e Vila Cova"],
+    ["131141", "Guilhufe e Urrô"],
+    ["131142", "Lagares e Figueira"],
+    ["131143", "Termas de São Vicente"]
+  ],
+
+  "1312": [
+    ["131202", "BONFIM"],
+    ["131203", "CAMPANHÃ"],
+    ["131210", "PARANHOS"],
+    ["131211", "RAMALDE"],
+    ["131216", "União das freguesias de Aldoar, Foz do Douro e Nevogilde"],
+    [
+      "131217",
+      "União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória"
+    ],
+    ["131218", "União das freguesias de Lordelo do Ouro e Massarelos"]
+  ],
+
+  "1313": [
+    ["131305", "BALAZAR"],
+    ["131307", "ESTELA"],
+    ["131308", "LAUNDOS"],
+    ["131311", "RATES"],
+    ["131313", "União das freguesias de Aver-o-Mar, Amorim e Terroso"],
+    ["131314", "União das freguesias de Aguçadoura e Navais"],
+    ["131315", "União das freguesias da Póvoa de Varzim, Beiriz e Argivai"]
+  ],
+
+  "1314": [
+    ["131401", "AGRELA"],
+    ["131402", "ÁGUA LONGA"],
+    ["131405", "AVES"],
+    ["131413", "MONTE CÓRDOVA"],
+    ["131416", "REBORDÕES"],
+    ["131418", "REGUENGA"],
+    ["131419", "RORIZ"],
+    ["131430", "NEGRELOS (SÃO TOMÉ)"],
+    ["131432", "VILARINHO"],
+    ["131433", "União das freguesias de Areias, Sequeiró, Lama e Palmeira"],
+    [
+      "131434",
+
+      "União das freguesias de Campo (São Martinho), São Salvador do Campo e Negrelos (São Mamede)"
+    ],
+    ["131435", "União das freguesias de Carreira e Refojos de Riba de Ave"],
+    ["131436", "União das freguesias de Lamelas e Guimarei"],
+    [
+      "131437",
+      "União das freguesias de Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães"
+    ]
+  ],
+
+  "1315": [
+    ["131501", "ALFENA"],
+    ["131503", "ERMESINDE"],
+    ["131505", "VALONGO"],
+    ["131506", "União das freguesias de Campo e Sobrado"]
+  ],
+
+  "1316": [
+    ["131602", "ÁRVORE"],
+    ["131603", "AVELEDA"],
+    ["131604", "AZURARA"],
+    ["131607", "FAJOZES"],
+    ["131610", "GIÃO"],
+    ["131611", "GUILHABREU"],
+    ["131612", "JUNQUEIRA"],
+    ["131613", "LABRUGE"],
+    ["131614", "MACIEIRA DA MAIA"],
+    ["131616", "MINDELO"],
+    ["131617", "MODIVAS"],
+    ["131627", "VILA CHÃ"],
+    ["131628", "VILA DO CONDE"],
+    ["131630", "VILAR DE PINHEIRO"],
+    [
+      "131631",
+      "União das freguesias de Bagunte, Ferreiró, Outeiro Maior e Parada"
+    ],
+    ["131632", "União das freguesias de Fornelo e Vairão"],
+    ["131633", "União das freguesias de Malta e Canidelo"],
+    ["131634", "União das freguesias de Retorta e Tougues"],
+    ["131635", "União das freguesias de Rio Mau e Arcos"],
+    ["131636", "União das freguesias de Touguinha e Touguinhó"],
+    ["131637", "União das freguesias de Vilar e Mosteiró"]
+  ],
+
+  "1317": [
+    ["131701", "ARCOZELO"],
+    ["131702", "AVINTES"],
+    ["131703", "CANELAS"],
+    ["131704", "CANIDELO"],
+    ["131709", "MADALENA"],
+    ["131712", "OLIVEIRA DO DOURO"],
+    ["131717", "SÃO FÉLIX DA MARINHA"],
+    ["131723", "VILAR DE ANDORINHO"],
+    ["131725", "União das freguesias de Grijó e Sermonde"],
+    ["131726", "União das freguesias de Gulpilhares e Valadares"],
+    ["131727", "União das freguesias de Mafamude e Vilar do Paraíso"],
+    ["131728", "União das freguesias de Pedroso e Seixezelo"],
+    ["131729", "União das freguesias de Sandim, Olival, Lever e Crestuma"],
+    ["131730", "União das freguesias de Santa Marinha e São Pedro da Afurada"],
+    ["131731", "União das freguesias de Serzedo e Perosinho"]
+  ],
+
+  "1318": [
+    ["131806", "COVELAS"],
+    ["131808", "MURO"],
+    ["131809", "União das freguesias de Alvarelhos e Guidões"],
+    ["131810", "União das freguesias de Bougado (São Martinho e Santiago)"],
+    ["131811", "União das freguesias de Coronado (São Romão e São Mamede)"]
+  ],
+
+  "1401": [
+    ["140104", "BEMPOSTA"],
+    ["140105", "MARTINCHEL"],
+    ["140106", "MOURISCAS"],
+    ["140107", "PEGO"],
+    ["140108", "RIO DE MOINHOS"],
+    ["140115", "TRAMAGAL"],
+    ["140118", "FONTES"],
+    ["140119", "CARVALHAL"],
+    [
+      "140120",
+      "União das freguesias de Abrantes (São Vicente e São João) e Alferrarede"
+    ],
+    ["140121", "União das freguesias de Aldeia do Mato e Souto"],
+    ["140122", "União das freguesias de Alvega e Concavada"],
+    ["140123", "União das freguesias de São Facundo e Vale das Mós"],
+    [
+      "140124",
+      "União das freguesias de São Miguel do Rio Torto e Rossio ao Sul do Tejo"
+    ]
+  ],
+
+  "1402": [
+    ["140202", "BUGALHOS"],
+    ["140206", "MINDE"],
+    ["140207", "MOITAS VENDA"],
+    ["140208", "MONSANTO"],
+    ["140209", "SERRA DE SANTO ANTÓNIO"],
+    ["140211", "União das freguesias de Alcanena e Vila Moreira"],
+    ["140212", "União das freguesias de Malhou, Louriceira e Espinheiro"]
+  ],
+
+  "1403": [
+    ["140301", "ALMEIRIM"],
+    ["140302", "BENFICA DO RIBATEJO"],
+    ["140303", "FAZENDAS DE ALMEIRIM"],
+    ["140304", "RAPOSA"]
+  ],
+
+  "1404": [["140401", "ALPIARÇA"]],
+
+  "1405": [
+    ["140501", "BENAVENTE"],
+    ["140502", "SAMORA CORREIA"],
+    ["140503", "SANTO ESTÊVÃO"],
+    ["140504", "BARROSA"]
+  ],
+
+  "1406": [
+    ["140604", "PONTÉVEL"],
+    ["140605", "VALADA"],
+    ["140607", "VILA CHÃ DE OURIQUE"],
+    ["140608", "VALE DA PEDRA"],
+    ["140609", "União das freguesias do Cartaxo e Vale da Pinta"],
+    ["140610", "União das freguesias de Ereira e Lapa"]
+  ],
+
+  "1407": [
+    ["140704", "ULME"],
+    ["140705", "VALE DE CAVALOS"],
+    ["140707", "CARREGUEIRA"],
+    ["140708", "União das freguesias da Chamusca e Pinheiro Grande"],
+    ["140709", "União das freguesias de Parreira e Chouto"]
+  ],
+
+  "1408": [
+    ["140801", "CONSTÂNCIA"],
+    ["140802", "MONTALVO"],
+    ["140803", "SANTA MARGARIDA DA COUTADA"]
+  ],
+
+  "1409": [
+    ["140902", "COUÇO"],
+    ["140903", "SÃO JOSÉ DA LAMOROSA"],
+    ["140905", "BRANCA"],
+    ["140907", "BISCAINHO"],
+    ["140908", "SANTANA DO MATO"],
+    ["140909", "União das freguesias de Coruche, Fajarda e Erra"]
+  ],
+
+  "1410": [
+    ["141001", "SÃO JOÃO BAPTISTA"],
+    ["141002", "NOSSA SENHORA DE FÁTIMA"]
+  ],
+
+  "1411": [
+    ["141101", "ÁGUAS BELAS"],
+    ["141103", "BECO"],
+    ["141104", "CHÃOS"],
+    ["141106", "FERREIRA DO ZÊZERE"],
+    ["141107", "IGREJA NOVA DO SOBRAL"],
+    ["141110", "Nossa Senhora do Pranto"],
+    ["141111", "União das freguesias de Areias e Pias"]
+  ],
+
+  "1412": [
+    ["141201", "AZINHAGA"],
+    ["141202", "GOLEGÃ"],
+    ["141203", "Pombalinho"]
+  ],
+
+  "1413": [
+    ["141302", "AMÊNDOA"],
+    ["141303", "CARDIGOS"],
+    ["141304", "CARVOEIRO"],
+    ["141305", "ENVENDOS"],
+    ["141307", "ORTIGA"],
+    ["141309", "União das freguesias de Mação, Penhascoso e Aboboreira"]
+  ],
+
+  "1414": [
+    ["141401", "ALCOBERTAS"],
+    ["141402", "ARROUQUELAS"],
+    ["141405", "FRÁGUAS"],
+    ["141408", "RIO MAIOR"],
+    ["141410", "ASSEICEIRA"],
+    ["141411", "SÃO SEBASTIÃO"],
+    ["141415", "União das freguesias de Azambujeira e Malaqueijo"],
+    ["141416", "União das freguesias de Marmeleira e Assentiz"],
+    [
+      "141417",
+      "União das freguesias de Outeiro da Cortiçada e Arruda dos Pisões"
+    ],
+    [
+      "141418",
+      "União das freguesias de São João da Ribeira e Ribeira de São João"
+    ]
+  ],
+
+  "1415": [
+    ["141502", "MARINHAIS"],
+    ["141503", "MUGE"],
+    ["141507", "União das freguesias de Glória do Ribatejo e Granho"],
+    [
+      "141508",
+      "União das freguesias de Salvaterra de Magos e Foros de Salvaterra"
+    ]
+  ],
+
+  "1416": [
+    ["141601", "ABITUREIRAS"],
+    ["141602", "ABRÃ"],
+    ["141604", "ALCANEDE"],
+    ["141605", "ALCANHÕES"],
+    ["141606", "ALMOSTER"],
+    ["141607", "AMIAIS DE BAIXO"],
+    ["141608", "ARNEIRO DAS MILHARIÇAS"],
+    ["141613", "MOÇARRIA"],
+    ["141614", "PERNES"],
+    ["141616", "PÓVOA DA ISENTA"],
+    ["141625", "VALE DE SANTARÉM"],
+    ["141628", "GANÇARIA"],
+    [
+      "141629",
+      "União das freguesias de Achete, Azoia de Baixo e Póvoa de Santarém"
+    ],
+    ["141630", "União das freguesias de Azoia de Cima e Tremês"],
+    ["141631", "União das freguesias de Casével e Vaqueiros"],
+    ["141632", "União das freguesias de Romeira e Várzea"],
+    [
+      "141633",
+      "União das freguesias de Santarém (Marvila), Santa Iria da Ribeira de Santarém, Santarém (São Salvador) e Santarém (São Nicolau)"
+    ],
+    ["141634", "União das freguesias de São Vicente do Paul e Vale de Figueira"]
+  ],
+
+  "1417": [
+    ["141701", "ALCARAVELA"],
+    ["141702", "SANTIAGO DE MONTALEGRE"],
+    ["141703", "SARDOAL"],
+    ["141704", "VALHASCOS"]
+  ],
+
+  "1418": [
+    ["141802", "ASSEICEIRA"],
+    ["141804", "CARREGUEIROS"],
+    ["141808", "OLALHAS"],
+    ["141809", "PAIALVO"],
+    ["141813", "SÃO PEDRO DE TOMAR"],
+    ["141814", "SABACHEIRA"],
+    ["141817", "União das freguesias de Além da Ribeira e Pedreira"],
+    ["141818", "União das freguesias de Casais e Alviobeira"],
+    ["141819", "União das freguesias de Madalena e Beselga"],
+    ["141820", "União das freguesias de Serra e Junceira"],
+    [
+      "141821",
+      "União das freguesias de Tomar (São João Baptista) e Santa Maria dos Olivais"
+    ]
+  ],
+
+  "1419": [
+    ["141902", "ASSENTIZ"],
+    ["141904", "CHANCELARIA"],
+    ["141909", "PEDRÓGÃO"],
+    ["141910", "RIACHOS"],
+    ["141916", "ZIBREIRA"],
+    ["141917", "MEIA VIA"],
+    [
+      "141918",
+      "União das freguesias de Brogueira, Parceiros de Igreja e Alcorochel"
+    ],
+    ["141919", "União das freguesias de Olaia e Paço"],
+    [
+      "141920",
+      "União das freguesias de Torres Novas (Santa Maria, Salvador e Santiago)"
+    ],
+    [
+      "141921",
+      "União das freguesias de Torres Novas (São Pedro), Lapas e Ribeira Branca"
+    ]
+  ],
+
+  "1420": [
+    ["142001", "ATALAIA"],
+    ["142002", "PRAIA DO RIBATEJO"],
+    ["142003", "TANCOS"],
+    ["142006", "Vila Nova da Barquinha"]
+  ],
+
+  "1421": [
+    ["142101", "ALBURITEL"],
+    ["142102", "ATOUGUIA"],
+    ["142104", "CAXARIAS"],
+    ["142105", "ESPITE"],
+    ["142106", "FÁTIMA"],
+    ["142111", "NOSSA SENHORA DAS MISERICÓRDIAS"],
+    ["142113", "SEIÇA"],
+    ["142114", "URQUEIRA"],
+    ["142115", "NOSSA SENHORA DA PIEDADE"],
+    [
+      "142119",
+      "União das freguesias de Freixianda, Ribeira do Fárrio e Formigais"
+    ],
+    ["142120", "União das freguesias de Gondemaria e Olival"],
+    ["142121", "União das freguesias de Matas e Cercal"],
+    ["142122", "União das freguesias de Rio de Couros e Casal dos Bernardos"]
+  ],
+
+  "1501": [
+    ["150104", "TORRÃO"],
+    ["150105", "SÃO MARTINHO"],
+    ["150106", "COMPORTA"],
+    [
+      "150107",
+      "União das freguesias de Alcácer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana"
+    ]
+  ],
+
+  "1502": [
+    ["150201", "ALCOCHETE"],
+    ["150202", "SAMOUCO"],
+    ["150203", "SÃO FRANCISCO"]
+  ],
+
+  "1503": [
+    ["150303", "COSTA DA CAPARICA"],
+    [
+      "150312",
+      "União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas"
+    ],
+    ["150313", "União das freguesias de Caparica e Trafaria"],
+    ["150314", "União das freguesias de Charneca de Caparica e Sobreda"],
+    ["150315", "União das freguesias de Laranjeiro e Feijó"]
+  ],
+
+  "1504": [
+    ["150407", "SANTO ANTÓNIO DA CHARNECA"],
+    [
+      "150409",
+      "União das freguesias de Alto do Seixalinho, Santo André e Verderena"
+    ],
+    ["150410", "União das freguesias de Barreiro e Lavradio"],
+    ["150411", "União das freguesias de Palhais e Coina"]
+  ],
+
+  "1505": [
+    ["150501", "AZINHEIRA DOS BARROS E SÃO MAMEDE DO SÁDÃO"],
+    ["150503", "MELIDES"],
+    ["150505", "CARVALHAL"],
+    ["150506", "União das freguesias de Grândola e Santa Margarida da Serra"]
+  ],
+
+  "1506": [
+    ["150601", "ALHOS VEDROS"],
+    ["150603", "MOITA"],
+    ["150607", "União das freguesias de Baixa da Banheira e Vale da Amoreira"],
+    ["150608", "União das freguesias de Gaio-Rosário e Sarilhos Pequenos"]
+  ],
+
+  "1507": [
+    ["150701", "CANHA"],
+    ["150704", "SARILHOS GRANDES"],
+    ["150709", "União das freguesias de Atalaia e Alto Estanqueiro-Jardia"],
+    ["150710", "União das freguesias de Montijo e Afonsoeiro"],
+    ["150711", "União das freguesias de Pegões"]
+  ],
+
+  "1508": [
+    ["150802", "PALMELA"],
+    ["150803", "PINHAL NOVO"],
+    ["150804", "QUINTA DO ANJO"],
+    ["150806", "União das freguesias de Poceirão e Marateca"]
+  ],
+
+  "1509": [
+    ["150901", "ABELA"],
+    ["150902", "ALVALADE"],
+    ["150903", "CERCAL"],
+    ["150904", "ERMIDAS-SADO"],
+    ["150907", "SANTO ANDRÉ"],
+    ["150910", "SÃO FRANCISCO DA SERRA"],
+    [
+      "150912",
+      "União das freguesias de Santiago do Cacém, Santa Cruz e São Bartolomeu da Serra"
+    ],
+    ["150913", "União das freguesias de São Domingos e Vale de Água"]
+  ],
+
+  "1510": [
+    ["151002", "AMORA"],
+    ["151005", "CORROIOS"],
+    ["151006", "FERNÃO FERRO"],
+    [
+      "151007",
+      "União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires"
+    ]
+  ],
+
+  "1511": [
+    ["151101", "SESIMBRA (CASTELO)"],
+    ["151102", "SESIMBRA (SANTIAGO)"],
+    ["151103", "QUINTA DO CONDE"]
+  ],
+
+  "1512": [
+    ["151205", "SETÚBAL (SÃO SEBASTIÃO)"],
+    ["151207", "GÂMBIA-PONTES-ALTO DA GUERRA"],
+    ["151208", "SADO"],
+    ["151209", "União das freguesias de Azeitão (São Lourenço e São Simão)"],
+    [
+      "151210",
+      "União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)"
+    ]
+  ],
+
+  "1513": [
+    ["151301", "SINES"],
+    ["151302", "PORTO COVO"]
+  ],
+
+  "1601": [
+    ["160101", "ABOIM DAS CHOÇAS"],
+    ["160102", "AGUIÃ"],
+    ["160104", "ÁZERE"],
+    ["160105", "CABANA MAIOR"],
+    ["160106", "CABREIRO"],
+    ["160108", "CENDUFE"],
+    ["160109", "COUTO"],
+    ["160113", "GAVIEIRA"],
+    ["160115", "GONDORIZ"],
+    ["160121", "MIRANDA"],
+    ["160122", "MONTE REDONDO"],
+    ["160123", "OLIVEIRA"],
+    ["160124", "PAÇÔ"],
+    ["160125", "PADROSO"],
+    ["160128", "PROZELO"],
+    ["160130", "RIO FRIO"],
+    ["160131", "RIO DE MOINHOS"],
+    ["160133", "SABADIM"],
+    ["160142", "JOLDA (SÃO PAIO)"],
+    ["160144", "SENHAREI"],
+    ["160145", "SISTELO"],
+    ["160146", "SOAJO"],
+    ["160149", "VALE"],
+    ["160152", "União das freguesias de Alvora e Loureda"],
+    ["160153", "União das freguesias de Arcos de Valdevez (São Paio) e Giela"],
+    [
+      "160154",
+      "União das freguesias de Arcos de Valdevez (Salvador), Vila Fonche e Parada"
+    ],
+    ["160155", "União das freguesias de Eiras e Mei"],
+    ["160156", "União das freguesias de Grade e Carralcova"],
+    ["160157", "União das freguesias de Guilhadeses e Santar"],
+    ["160158", "União das freguesias de Jolda (Madalena) e Rio Cabrão"],
+    ["160159", "União das freguesias de Padreiro (Salvador e Santa Cristina)"],
+    ["160160", "União das freguesias de Portela e Extremo"],
+    ["160161", "União das freguesias de São Jorge e Ermelo"],
+    ["160162", "União das freguesias de Souto e Tabaçô"],
+    ["160163", "União das freguesias de Távora (Santa Maria e São Vicente)"],
+    ["160164", "União das freguesias de Vilela, São Cosme e São Damião e Sá"]
+  ],
+
+  "1602": [
+    ["160201", "ÂNCORA"],
+    ["160205", "ARGELA"],
+    ["160209", "DEM"],
+    ["160211", "LANHELAS"],
+    ["160214", "RIBA DE ÂNCORA"],
+    ["160215", "SEIXAS"],
+    ["160217", "VILA PRAIA DE ÂNCORA"],
+    ["160218", "VILAR DE MOUROS"],
+    ["160220", "VILE"],
+    ["160221", "União das freguesias de Arga (Baixo, Cima e São João)"],
+    ["160222", "União das freguesias de Caminha (Matriz) e Vilarelho"],
+    ["160223", "União das freguesias de Gondar e Orbacém"],
+    ["160224", "União das freguesias de Moledo e Cristelo"],
+    ["160225", "União das freguesias de Venade e Azevedo"]
+  ],
+
+  "1603": [
+    ["160301", "ALVAREDO"],
+    ["160304", "COUSSO"],
+    ["160305", "CRISTOVAL"],
+    ["160307", "FIÃES"],
+    ["160308", "GAVE"],
+    ["160311", "PADERNE"],
+    ["160313", "PENSO"],
+    ["160317", "SÃO PAIO"],
+    ["160319", "União das freguesias de Castro Laboreiro e Lamas de Mouro"],
+    ["160320", "União das freguesias de Chaviães e Paços"],
+    ["160321", "União das freguesias de Parada do Monte e Cubalhão"],
+    ["160322", "União das freguesias de Prado e Remoães"],
+    ["160323", "União das freguesias de Vila e Roussas"]
+  ],
+
+  "1604": [
+    ["160401", "ABEDIM"],
+    ["160404", "BARBEITA"],
+    ["160405", "BARROÇAS E TAIAS"],
+    ["160406", "BELA"],
+    ["160407", "CAMBESES"],
+    ["160410", "LARA"],
+    ["160411", "LONGOS VALES"],
+    ["160415", "MERUFE"],
+    ["160418", "MOREIRA"],
+    ["160420", "PIAS"],
+    ["160421", "PINHEIROS"],
+    ["160422", "PODAME"],
+    ["160423", "PORTELA"],
+    ["160424", "RIBA DE MOURO"],
+    ["160427", "SEGUDE"],
+    ["160428", "TANGIL"],
+    ["160431", "TRUTE"],
+    ["160434", "União das freguesias de Anhões e Luzio"],
+    ["160435", "União das freguesias de Ceivães e Badim"],
+    ["160436", "União das freguesias de Mazedo e Cortes"],
+    ["160437", "União das freguesias de Messegães, Valadares e Sá"],
+    ["160438", "União das freguesias de Monção e Troviscoso"],
+    ["160439", "União das freguesias de Sago, Lordelo e Parada"],
+    ["160440", "União das freguesias de Troporiz e Lapela"]
+  ],
+
+  "1605": [
+    ["160501", "AGUALONGA"],
+    ["160503", "CASTANHEIRA"],
+    ["160505", "COURA"],
+    ["160507", "CUNHA"],
+    ["160510", "INFESTA"],
+    ["160513", "MOZELOS"],
+    ["160514", "PADORNELO"],
+    ["160515", "PARADA"],
+    ["160519", "ROMARIGÃES"],
+    ["160520", "RUBIÃES"],
+    ["160521", "VASCÕES"],
+    ["160522", "União das freguesias de Bico e Cristelo"],
+    ["160523", "União das freguesias de Cossourado e Linhares"],
+    ["160524", "União das freguesias de Formariz e Ferreira"],
+    ["160525", "União das freguesias de Insalde e Porreiras"],
+    ["160526", "União das freguesias de Paredes de Coura e Resende"]
+  ],
+
+  "1606": [
+    ["160601", "AZIAS"],
+    ["160602", "BOIVÃES"],
+    ["160603", "BRAVÃES"],
+    ["160604", "BRITELO"],
+    ["160606", "CUIDE DE VILA VERDE"],
+    ["160611", "LAVRADAS"],
+    ["160612", "LINDOSO"],
+    ["160613", "NOGUEIRA"],
+    ["160614", "OLEIROS"],
+    ["160619", "SAMPRIZ"],
+    ["160623", "VADE (SÃO PEDRO)"],
+    ["160624", "VADE (SÃO TOMÉ)"],
+    ["160626", "União das freguesias de Crasto, Ruivos e Grovelas"],
+    ["160627", "União das freguesias de Entre Ambos-os-Rios, Ermida e Germil"],
+    [
+      "160628",
+      "União das freguesias de Ponte da Barca, Vila Nova de Muía e Paço Vedro de Magalhães"
+    ],
+    ["160629", "União das freguesias de Touvedo (São Lourenço e Salvador)"],
+    [
+      "160630",
+      "União das freguesias de Vila Chã (São João Baptista e Santiago)"
+    ]
+  ],
+
+  "1607": [
+    ["160701", "ANAIS"],
+    ["160703", "SÃO PEDRO D' ARCOS"],
+    ["160704", "ARCOZELO"],
+    ["160707", "BEIRAL DO LIMA"],
+    ["160708", "BERTIANDOS"],
+    ["160709", "BOALHOSA"],
+    ["160710", "BRANDARA"],
+    ["160713", "CALHEIROS"],
+    ["160714", "CALVELO"],
+    ["160716", "CORRELHÃ"],
+    ["160717", "ESTORÃOS"],
+    ["160718", "FACHA"],
+    ["160719", "FEITOSA"],
+    ["160721", "FONTÃO"],
+    ["160724", "FRIASTELAS"],
+    ["160726", "GANDRA"],
+    ["160727", "GEMIEIRA"],
+    ["160728", "GONDUFE"],
+    ["160729", "LABRUJA"],
+    ["160734", "POIARES"],
+    ["160737", "REFÓIOS DO LIMA"],
+    ["160739", "RIBEIRA"],
+    ["160740", "SÁ"],
+    ["160742", "SANTA COMBA"],
+    ["160743", "SANTA CRUZ DO LIMA"],
+    ["160744", "REBORDÕES (SANTA MARIA)"],
+    ["160745", "SEARA"],
+    ["160746", "SERDEDELO"],
+    ["160747", "REBORDÕES (SOUTO)"],
+    ["160750", "VITORINO DAS DONAS"],
+    ["160752", "Arca e Ponte de Lima"],
+    ["160753", "Ardegão, Freixo e Mato"],
+    ["160754", "Associação de freguesias do Vale do Neiva"],
+    ["160755", "Bárrio e Cepões"],
+    ["160756", "Cabaços e Fojo Lobal"],
+    ["160757", "Cabração e Moreira do Lima"],
+    ["160758", "Fornelos e Queijada"],
+    ["160759", "Labrujó, Rendufe e Vilar do Monte"],
+    ["160760", "Navió e Vitorino dos Piães"]
+  ],
+
+  "1608": [
+    ["160802", "BOIVÃO"],
+    ["160803", "CERDAL"],
+    ["160805", "FONTOURA"],
+    ["160806", "FRIESTAS"],
+    ["160808", "GANFEI"],
+    ["160812", "SÃO PEDRO DA TORRE"],
+    ["160816", "VERDOEJO"],
+    ["160817", "União das freguesias de Gandra e Taião"],
+    ["160818", "União das freguesias de Gondomil e Sanfins"],
+    ["160819", "União das freguesias de São Julião e Silva"],
+    ["160820", "União das freguesias de Valença, Cristelo Covo e Arão"]
+  ],
+
+  "1609": [
+    ["160901", "AFIFE"],
+    ["160902", "ALVARÃES"],
+    ["160903", "AMONDE"],
+    ["160904", "ANHA"],
+    ["160905", "AREOSA"],
+    ["160908", "CARREÇO"],
+    ["160910", "CASTELO DO NEIVA"],
+    ["160911", "DARQUE"],
+    ["160914", "FREIXIEIRO DE SOUTELO"],
+    ["160915", "LANHESES"],
+    ["160920", "MONTARIA"],
+    ["160922", "MUJÃES"],
+    ["160923", "SÃO ROMÃO DE NEIVA"],
+    ["160925", "OUTEIRO"],
+    ["160926", "PERRE"],
+    ["160928", "SANTA MARTA DE PORTUZELO"],
+    ["160935", "VILA FRANCA"],
+    ["160938", "VILA DE PUNHE"],
+    ["160940", "CHAFÉ"],
+    ["160941", "União das freguesias de Barroselas e Carvoeiro"],
+    ["160942", "União das freguesias de Cardielos e Serreleis"],
+    [
+      "160943",
+      "União das freguesias de Geraz do Lima (Santa Maria, Santa Leocádia e Moreira) e Deão"
+    ],
+    ["160944", "União das freguesias de Mazarefes e Vila Fria"],
+    ["160945", "União das freguesias de Nogueira, Meixedo e Vilar de Murteda"],
+    ["160946", "União das freguesias de Subportela, Deocriste e Portela Susã"],
+    ["160947", "União das freguesias de Torre e Vila Mou"],
+    [
+      "160948",
+      "União das freguesias de Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela"
+    ]
+  ],
+
+  "1610": [
+    ["161003", "CORNES"],
+    ["161004", "COVAS"],
+    ["161006", "GONDARÉM"],
+    ["161007", "LOIVO"],
+    ["161009", "MENTRESTIDO"],
+    ["161012", "SAPARDOS"],
+    ["161013", "SOPO"],
+    ["161016", "União das freguesias de Campos e Vila Meã"],
+    ["161017", "União das freguesias de Candemil e Gondar"],
+    ["161018", "União das freguesias de Reboreda e Nogueira"],
+    ["161019", "União das freguesias de Vila Nova de Cerveira e Lovelhe"]
+  ],
+
+  "1701": [
+    ["170101", "ALIJÓ"],
+    ["170107", "FAVAIOS"],
+    ["170108", "PEGARINHOS"],
+    ["170109", "PINHÃO"],
+    ["170112", "SANFINS DO DOURO"],
+    ["170113", "SANTA EUGÉNIA"],
+    ["170114", "SÃO MAMEDE DE RIBATUA"],
+    ["170116", "VILA CHÃ"],
+    ["170117", "VILA VERDE"],
+    ["170118", "VILAR DE MAÇADA"],
+    ["170120", "União das freguesias de Carlão e Amieiro"],
+    ["170121", "União das freguesias de Castedo e Cotas"],
+    ["170122", "União das freguesias de Pópulo e Ribalonga"],
+    [
+      "170123",
+      "União das freguesias de Vale de Mendiz, Casal de Loivos e Vilarinho de Cotas"
+    ]
+  ],
+
+  "1702": [
+    ["170203", "BEÇA"],
+    ["170208", "COVAS DO BARROSO"],
+    ["170210", "DORNELAS"],
+    ["170213", "PINHO"],
+    ["170215", "SAPIÃOS"],
+    ["170217", "Alturas do Barroso e Cerdedo"],
+    ["170218", "Ardãos e Bobadela"],
+    ["170219", "Boticas e Granja"],
+    ["170220", "Codessoso, Curros e Fiães do Tâmega"],
+    ["170221", "Vilar e Viveiro"]
+  ],
+
+  "1703": [
+    ["170301", "ÁGUAS FRIAS"],
+    ["170302", "ANELHE"],
+    ["170305", "BUSTELO"],
+    ["170309", "CIMO DE VILA DA CASTANHEIRA"],
+    ["170310", "CURALHA"],
+    ["170312", "ERVEDEDO"],
+    ["170313", "FAIÕES"],
+    ["170314", "LAMA DE ARCOS"],
+    ["170316", "MAIROS"],
+    ["170317", "MOREIRAS"],
+    ["170318", "NOGUEIRA DA MONTANHA"],
+    ["170320", "OURA"],
+    ["170321", "OUTEIRO SECO"],
+    ["170322", "PARADELA"],
+    ["170324", "REDONDELO"],
+    ["170327", "SANFINS"],
+    ["170329", "SANTA LEOCÁDIA"],
+    ["170330", "SANTO ANTÓNIO DE MONFORTE"],
+    ["170331", "SANTO ESTÊVÃO"],
+    ["170333", "SÃO PEDRO DE AGOSTÉM"],
+    ["170334", "SÃO VICENTE"],
+    ["170340", "TRONCO"],
+    ["170341", "VALE DE ANTA"],
+    ["170343", "VILA VERDE DA RAIA"],
+    ["170344", "VILAR DE NANTES"],
+    ["170345", "VILARELHO DA RAIA"],
+    ["170347", "VILAS BOAS"],
+    ["170348", "VILELA SECA"],
+    ["170349", "VILELA DO TÂMEGA"],
+    ["170350", "SANTA MARIA MAIOR"],
+    [
+      "170353",
+      "Planalto de Monforte (União das freguesias de Oucidres e Bobadela)"
+    ],
+    ["170354", "União das freguesias da Madalena e Samaiões"],
+    [
+      "170355",
+      "União das freguesias das Eiras, São Julião de Montenegro e Cela"
+    ],
+    ["170356", "União das freguesias de Calvão e Soutelinho da Raia"],
+    ["170357", "União das freguesias de Loivos e Póvoa de Agrações"],
+    ["170358", "União das freguesias de Santa Cruz/Trindade e Sanjurge"],
+    ["170359", "União das freguesias de Soutelo e Seara Velha"],
+    ["170360", "União das freguesias de Travancas e Roriz"],
+    [
+      "170361",
+      "Vidago (União das freguesias de Vidago, Arcossó, Selhariz e Vilarinho das Paranheiras)"
+    ]
+  ],
+
+  "1704": [
+    ["170401", "BARQUEIROS"],
+    ["170402", "CIDADELHE"],
+    ["170403", "OLIVEIRA"],
+    ["170407", "VILA MARIM"],
+    ["170408", "Mesão Frio (Santo André)"]
+  ],
+
+  "1705": [
+    ["170501", "ATEI"],
+    ["170502", "BILHÓ"],
+    ["170505", "São Cristóvão de Mondim de Basto"],
+    ["170508", "VILAR DE FERREIROS"],
+    ["170509", "União das freguesias de Campanhó e Paradança"],
+    ["170510", "União das freguesias de Ermelo e Pardelhas"]
+  ],
+
+  "1706": [
+    ["170601", "CABRIL"],
+    ["170603", "CERVOS"],
+    ["170604", "CHÃ"],
+    ["170607", "COVELO DO GERÊS"],
+    ["170609", "FERRAL"],
+    ["170612", "GRALHAS"],
+    ["170616", "MORGADE"],
+    ["170618", "NEGRÕES"],
+    ["170619", "OUTEIRO"],
+    ["170623", "PITÕES DAS JUNIAS"],
+    ["170625", "REIGOSO"],
+    ["170626", "SALTO"],
+    ["170627", "SANTO ANDRÉ"],
+    ["170629", "SARRAQUINHOS"],
+    ["170631", "SOLVEIRA"],
+    ["170632", "TOURÉM"],
+    ["170635", "VILA DA PONTE"],
+    ["170636", "União das freguesias de Cambeses do Rio, Donões e Mourilhe"],
+    ["170637", "União das freguesias de Meixedo e Padornelos"],
+    ["170638", "União das freguesias de Montalegre e Padroso"],
+    ["170639", "União das freguesias de Paradela, Contim e Fiães"],
+    ["170640", "União das freguesias de Sezelhe e Covelães"],
+    ["170641", "União das freguesias de Venda Nova e Pondras"],
+    ["170642", "União das freguesias de Viade de Baixo e Fervidelas"],
+    ["170643", "União das freguesias de Vilar de Perdizes e Meixide"]
+  ],
+
+  "1707": [
+    ["170701", "CANDEDO"],
+    ["170703", "FIOLHOSO"],
+    ["170704", "JOU"],
+    ["170705", "MURÇA"],
+    ["170708", "VALONGO DE MILHAIS"],
+    ["170710", "União das freguesias de Carva e Vilares"],
+    ["170711", "União das freguesias de Noura e Palheiros"]
+  ],
+
+  "1708": [
+    ["170802", "FONTELAS"],
+    ["170805", "LOUREIRO"],
+    ["170809", "SEDIELOS"],
+    ["170810", "VILARINHO DOS FREIRES"],
+    ["170813", "União das freguesias de Galafura e Covelinhas"],
+    ["170814", "União das freguesias de Moura Morta e Vinhós"],
+    ["170815", "União das freguesias de Peso da Régua e Godim"],
+    ["170816", "União das freguesias de Poiares e Canelas"]
+  ],
+
+  "1709": [
+    ["170901", "ALVADIA"],
+    ["170902", "CANEDO"],
+    ["170906", "SANTA MARINHA"],
+    ["170908", "União das freguesias de Cerva e Limões"],
+    [
+      "170909",
+      "União das freguesias de Ribeira de Pena (Salvador) e Santo Aleixo de Além-Tâmega"
+    ]
+  ],
+
+  "1710": [
+    ["171001", "CELEIRÓS"],
+    ["171002", "COVAS DO DOURO"],
+    ["171004", "GOUVINHAS"],
+    ["171005", "PARADA DE PINHÃO"],
+    ["171007", "PAÇOS"],
+    ["171009", "SABROSA"],
+    ["171011", "SÃO LOURENÇO DE RIBAPINHÃO"],
+    ["171013", "SOUTO MAIOR"],
+    ["171014", "TORRE DO PINHÃO"],
+    ["171015", "VILARINHO DE SÃO ROMÃO"],
+    [
+      "171016",
+      "União das freguesias de Provesende, Gouvães do Douro e São Cristóvão do Douro"
+    ],
+    [
+      "171017",
+      "União das freguesias de São Martinho de Antas e Paradela de Guiães"
+    ]
+  ],
+
+  "1711": [
+    ["171101", "ALVAÇÕES DO CORGO"],
+    ["171102", "CUMIEIRA"],
+    ["171103", "FONTES"],
+    ["171106", "MEDRÕES"],
+    ["171110", "SEVER"],
+    [
+      "171111",
+      "União das freguesias de Lobrigos (São Miguel e São João Baptista) e Sanhoane"
+    ],
+    ["171112", "União das freguesias de Louredo e Fornelos"]
+  ],
+
+  "1712": [
+    ["171201", "ÁGUA REVÉS E CRASTO"],
+    ["171203", "ALGERIZ"],
+    ["171205", "BOUÇOÃES"],
+    ["171206", "CANAVESES"],
+    ["171209", "ERVÕES"],
+    ["171211", "FORNOS DO PINHAL"],
+    ["171212", "FRIÕES"],
+    ["171215", "PADRELA E TAZEM"],
+    ["171216", "POSSACOS"],
+    ["171217", "RIO TORTO"],
+    ["171219", "SANTA MARIA DE EMERES"],
+    ["171220", "SANTA VALHA"],
+    ["171221", "SANTIAGO DA RIBEIRA DE ALHARIZ"],
+    ["171222", "SÃO JOÃO DA CORVEIRA"],
+    ["171223", "SÃO PEDRO DE VEIGA DE LILA"],
+    ["171224", "SERAPICOS"],
+    ["171227", "VALES"],
+    ["171229", "VASSAL"],
+    ["171230", "VEIGA DE LILA"],
+    ["171231", "VILARANDELO"],
+    ["171232", "Carrazedo de Montenegro e Curros"],
+    ["171233", "Lebução, Fiães e Nozelos"],
+    ["171234", "Sonim e Barreiros"],
+    ["171235", "Tinhela e Alvarelhos"],
+    ["171236", "Valpaços e Sanfins"]
+  ],
+
+  "1713": [
+    ["171302", "ALFARELA DE JALES"],
+    ["171303", "BORNES DE AGUIAR"],
+    ["171304", "BRAGADO"],
+    ["171305", "CAPELUDOS"],
+    ["171310", "SOUTELO DE AGUIAR"],
+    ["171311", "TELÕES"],
+    ["171312", "TRESMINAS"],
+    ["171313", "VALOURA"],
+    ["171314", "VILA POUCA DE AGUIAR"],
+    ["171315", "VREIA DE BORNES"],
+    ["171316", "VREIA DE JALES"],
+    ["171317", "SABROSO DE AGUIAR"],
+    ["171319", "Alvão"],
+    ["171320", "União das freguesias de Pensalvos e Parada de Monteiros"]
+  ],
+
+  "1714": [
+    ["171401", "ABAÇAS"],
+    ["171403", "ANDRÃES"],
+    ["171404", "ARROIOS"],
+    ["171406", "CAMPEÃ"],
+    ["171409", "FOLHADELA"],
+    ["171410", "GUIÃES"],
+    ["171414", "LORDELO"],
+    ["171415", "MATEUS"],
+    ["171416", "MONDRÕES"],
+    ["171420", "PARADA DE CUNHOS"],
+    ["171426", "TORGUEDA"],
+    ["171429", "VILA MARIM"],
+    ["171431", "União das freguesias de Adoufe e Vilarinho de Samardã"],
+    ["171432", "União das freguesias de Borbela e Lamas de Olo"],
+    ["171433", "União das freguesias de Constantim e Vale de Nogueiras"],
+    ["171434", "União das freguesias de Mouçós e Lamares"],
+    ["171435", "União das freguesias de Nogueira e Ermida"],
+    ["171436", "União das freguesias de Pena, Quintã e Vila Cova"],
+    ["171437", "União das freguesias de São Tomé do Castelo e Justes"],
+    ["171438", "Vila Real"]
+  ],
+
+  "1801": [
+    ["180101", "ALDEIAS"],
+    ["180104", "CIMBRES"],
+    ["180106", "FOLGOSA"],
+    ["180107", "FONTELO"],
+    ["180109", "QUEIMADA"],
+    ["180110", "QUEIMADELA"],
+    ["180111", "SANTA CRUZ"],
+    ["180114", "SÃO COSMADO"],
+    ["180115", "SÃO MARTINHO DAS CHÃS"],
+    ["180118", "VACALAR"],
+    ["180120", "Armamar"],
+    ["180121", "União das freguesias de Aricera e Goujoim"],
+    ["180122", "União das freguesias de São Romão e Santiago"],
+    ["180123", "União das freguesias de Vila Seca e Santo Adrião"]
+  ],
+
+  "1802": [
+    ["180201", "BEIJÓS"],
+    ["180202", "CABANAS DE VIRIATO"],
+    ["180204", "OLIVEIRA DO CONDE"],
+    ["180206", "PARADA"],
+    ["180208", "União das freguesias de Currelos, Papízios e Sobral"]
+  ],
+
+  "1803": [
+    ["180301", "ALMOFALA"],
+    ["180303", "CABRIL"],
+    ["180304", "CASTRO DAIRE"],
+    ["180305", "CUJÓ"],
+    ["180309", "GOSENDE"],
+    ["180312", "MÕES"],
+    ["180313", "MOLEDO"],
+    ["180314", "MONTEIRAS"],
+    ["180317", "PEPIM"],
+    ["180319", "PINHEIRO"],
+    ["180322", "SÃO JOANINHO"],
+    ["180323", "União das freguesias de Mamouros, Alva e Ribolhos"],
+    ["180324", "União das freguesias de Mezio e Moura Morta"],
+    ["180325", "União das freguesias de Parada de Ester e Ester"],
+    ["180326", "União das freguesias de Picão e Ermida"],
+    ["180327", "União das freguesias de Reriz e Gafanhão"]
+  ],
+
+  "1804": [
+    ["180403", "CINFÃES"],
+    ["180404", "ESPADANEDO"],
+    ["180405", "FERREIROS DE TENDAIS"],
+    ["180406", "FORNELOS"],
+    ["180408", "MOIMENTA"],
+    ["180409", "NESPEREIRA"],
+    ["180410", "OLIVEIRA DO DOURO"],
+    ["180412", "SANTIAGO DE PIÃES"],
+    ["180413", "SÃO CRISTOVÃO DE NOGUEIRA"],
+    ["180414", "SOUSELO"],
+    ["180415", "TAROUQUELA"],
+    ["180416", "TENDAIS"],
+    ["180417", "TRAVANCA"],
+    ["180418", "União das freguesias de Alhões, Bustelo, Gralheira e Ramires"]
+  ],
+
+  "1805": [
+    ["180502", "AVÕES"],
+    ["180504", "BRITIANDE"],
+    ["180505", "CAMBRES"],
+    ["180507", "FERREIRIM"],
+    ["180508", "FERREIROS DE AVÕES"],
+    ["180509", "FIGUEIRA"],
+    ["180510", "LALIM"],
+    ["180511", "LAZARIM"],
+    ["180516", "PENAJÓIA"],
+    ["180517", "PENUDE"],
+    ["180519", "SAMODÃES"],
+    ["180520", "SANDE"],
+    ["180523", "VÁRZEA DE ABRUNHAIS"],
+    ["180524", "VILA NOVA DE SOUTO D' EL-REI"],
+    ["180525", "Lamego (Almacave e Sé)"],
+    ["180526", "União das freguesias de Bigorne, Magueija e Pretarouca"],
+    ["180527", "União das freguesias de Cepões, Meijinhos e Melcões"],
+    ["180528", "União das freguesias de Parada do Bispo e Valdigem"]
+  ],
+
+  "1806": [
+    ["180601", "ABRUNHOSA-A-VELHA"],
+    ["180602", "ALCAFACHE"],
+    ["180605", "CUNHA BAIXA"],
+    ["180606", "ESPINHO"],
+    ["180607", "FORNOS DE MACEIRA DÃO"],
+    ["180608", "FREIXIOSA"],
+    ["180614", "QUINTELA DE AZURARA"],
+    ["180616", "SÃO JOÃO DA FRESTA"],
+    ["180619", "União das freguesias de Mangualde, Mesquitela e Cunha Alta"],
+    [
+      "180620",
+      "União das freguesias de Moimenta de Maceira Dão e Lobelhe do Mato"
+    ],
+    [
+      "180621",
+      "União das freguesias de Santiago de Cassurrães e Póvoa de Cervães"
+    ],
+    ["180622", "União das freguesias de Tavares (Chãs, Várzea e Travanca)"]
+  ],
+
+  "1807": [
+    ["180702", "ALVITE"],
+    ["180703", "ARCOZELOS"],
+    ["180705", "BALDOS"],
+    ["180706", "CABAÇOS"],
+    ["180707", "CARIA"],
+    ["180708", "CASTELO"],
+    ["180709", "LEOMIL"],
+    ["180710", "MOIMENTA DA BEIRA"],
+    ["180713", "PASSÓ"],
+    ["180716", "RUA"],
+    ["180717", "SARZEDO"],
+    ["180719", "SEVER"],
+    ["180720", "VILAR"],
+    ["180721", "União das freguesias de Paradinha e Nagosa"],
+    ["180722", "União das freguesias de Pêra Velha, Aldeia de Nacomba e Ariz"],
+    ["180723", "União das freguesias de Peva e Segões"]
+  ],
+
+  "1808": [
+    ["180802", "CERCOSA"],
+    ["180804", "ESPINHO"],
+    ["180805", "MARMELEIRA"],
+    ["180807", "PALA"],
+    ["180808", "SOBRAL"],
+    ["180809", "TREZÓI"],
+    [
+      "180811",
+      "União das freguesias de Mortágua, Vale de Remígio, Cortegaça e Almaça"
+    ]
+  ],
+
+  "1809": [
+    ["180901", "CANAS DE SENHORIM"],
+    ["180903", "NELAS"],
+    ["180905", "SENHORIM"],
+    ["180906", "VILAR SECO"],
+    ["180908", "LAPA DO LOBO"],
+    ["180910", "União das freguesias de Carvalhal Redondo e Aguieira"],
+    ["180911", "União das freguesias de Santar e Moreira"]
+  ],
+
+  "1810": [
+    ["181002", "ARCOZELO DAS MAIAS"],
+    ["181005", "PINHEIRO"],
+    ["181007", "RIBEIRADIO"],
+    ["181008", "SÃO JOÃO DA SERRA"],
+    ["181009", "SÃO VICENTE DE LAFÕES"],
+    ["181013", "União das freguesias de Arca e Varzielas"],
+    ["181014", "União das freguesias de Destriz e Reigoso"],
+    [
+      "181015",
+      "União das freguesias de Oliveira de Frades, Souto de Lafões e Sejães"
+    ]
+  ],
+
+  "1811": [
+    ["181102", "CASTELO DE PENALVA"],
+    ["181103", "ESMOLFE"],
+    ["181104", "GERMIL"],
+    ["181105", "ÍNSUA"],
+    ["181106", "LUSINDE"],
+    ["181109", "PINDO"],
+    ["181110", "REAL"],
+    ["181111", "SEZURES"],
+    ["181112", "TRANCOZELOS"],
+    ["181114", "União das freguesias de Antas e Matela"],
+    ["181115", "União das freguesias de Vila Cova do Covelo/Mareco"]
+  ],
+
+  "1812": [
+    ["181202", "BESELGA"],
+    ["181203", "CASTAINÇO"],
+    ["181207", "PENELA DA BEIRA"],
+    ["181208", "PÓVOA DE PENELA"],
+    ["181209", "SOUTO"],
+    ["181210", "União das freguesias de Antas e Ourozinho"],
+    ["181211", "União das freguesias de Penedono e Granja"]
+  ],
+
+  "1813": [
+    ["181302", "BARRÔ"],
+    ["181303", "CÁRQUERE"],
+    ["181310", "PAUS"],
+    ["181311", "RESENDE"],
+    ["181312", "SÃO CIPRIANO"],
+    ["181313", "SÃO JOÃO DE FONTOURA"],
+    ["181314", "SÃO MARTINHO DE MOUROS"],
+    ["181316", "União das freguesias de Anreade e São Romão de Aregos"],
+    ["181317", "União das freguesias de Felgueiras e Feirão"],
+    ["181318", "União das freguesias de Freigil e Miomães"],
+    ["181319", "União das freguesias de Ovadas e Panchorra"]
+  ],
+
+  "1814": [
+    ["181403", "PINHEIRO DE ÁZERE"],
+    ["181405", "SÃO JOANINHO"],
+    ["181406", "SÃO JOÃO DE AREIAS"],
+    ["181410", "União das freguesias de Ovoa e Vimieiro"],
+    ["181411", "União das freguesias de Santa Comba Dão e Couto do Mosteiro"],
+    ["181412", "União das freguesias de Treixedo e Nagozela"]
+  ],
+
+  "1815": [
+    ["181501", "CASTANHEIRO DO SUL"],
+    ["181502", "ERVEDOSA DO DOURO"],
+    ["181504", "NAGOZELO DO DOURO"],
+    ["181505", "PAREDES DA BEIRA"],
+    ["181507", "RIODADES"],
+    ["181509", "SOUTELO DO DOURO"],
+    ["181511", "VALE DE FIGUEIRA"],
+    ["181512", "VALONGO DOS AZEITES"],
+    [
+      "181515",
+      "União das freguesias de São João da Pesqueira e Várzea de Trevões"
+    ],
+    ["181516", "União das freguesias de Trevões e Espinhosa"],
+    ["181517", "União das freguesias de Vilarouco e Pereiros"]
+  ],
+
+  "1816": [
+    ["181602", "BORDONHOS"],
+    ["181606", "FIGUEIREDO DE ALVA"],
+    ["181607", "MANHOUCE"],
+    ["181608", "PINDELO DOS MILAGRES"],
+    ["181609", "PINHO"],
+    ["181612", "SÃO FÉLIX"],
+    ["181615", "SERRAZES"],
+    ["181616", "SUL"],
+    ["181617", "VALADARES"],
+    ["181619", "VILA MAIOR"],
+    ["181620", "União das freguesias de Carvalhais e Candal"],
+    [
+      "181621",
+      "União das freguesias de Santa Cruz da Trapa e São Cristóvão de Lafões"
+    ],
+    [
+      "181622",
+      "União das freguesias de São Martinho das Moitas e Covas do Rio"
+    ],
+    ["181623", "União das freguesias de São Pedro do Sul, Várzea e Baiões"]
+  ],
+
+  "1817": [
+    ["181702", "AVELAL"],
+    ["181704", "FERREIRA DE AVES"],
+    ["181706", "MIOMA"],
+    ["181707", "RIO DE MOINHOS"],
+    ["181709", "SÃO MIGUEL DE VILA BOA"],
+    ["181710", "SÁTÃO"],
+    ["181711", "SILVÃ DE CIMA"],
+    ["181713", "União das freguesias de Águas Boas e Forles"],
+    ["181714", "União das freguesias de Romãs, Decermilo e Vila Longa"]
+  ],
+
+  "1818": [
+    ["181801", "ARNAS"],
+    ["181802", "CARREGAL"],
+    ["181803", "CHOSENDO"],
+    ["181804", "CUNHA"],
+    ["181806", "FAIA"],
+    ["181810", "GRANJAL"],
+    ["181811", "LAMOSA"],
+    ["181814", "QUINTELA"],
+    ["181817", "VILA DA PONTE"],
+    ["181818", "União das freguesias de Ferreirim e Macieira"],
+    ["181819", "União das freguesias de Fonte Arcada e Escurquela"],
+    ["181820", "União das freguesias de Penso e Freixinho"],
+    ["181821", "União das freguesias de Sernancelhe e Sarzeda"]
+  ],
+
+  "1819": [
+    ["181901", "ADORIGO"],
+    ["181902", "ARCOS"],
+    ["181904", "CHAVÃES"],
+    ["181905", "DESEJOSA"],
+    ["181906", "GRANJA DO TEDO"],
+    ["181908", "LONGA"],
+    ["181913", "SENDIM"],
+    ["181914", "TABUAÇO"],
+    ["181917", "VALENÇA DO DOURO"],
+    ["181918", "União das freguesias de Barcos e Santa Leocádia"],
+    ["181919", "União das freguesias de Paradela e Granjinha"],
+    ["181920", "União das freguesias de Pinheiros e Vale de Figueira"],
+    ["181921", "União das freguesias de Távora e Pereiro"]
+  ],
+
+  "1820": [
+    ["182004", "MONDIM DA BEIRA"],
+    ["182005", "SALZEDAS"],
+    ["182006", "SÃO JOÃO DE TAROUCA"],
+    ["182009", "VÁRZEA DA SERRA"],
+    ["182011", "União das freguesias de Gouviães e Ucanha"],
+    ["182012", "União das freguesias de Granja Nova e Vila Chã da Beira"],
+    ["182013", "União das freguesias de Tarouca e Dálvares"]
+  ],
+
+  "1821": [
+    ["182102", "CAMPO DE BESTEIROS"],
+    ["182103", "CANAS DE SANTA MARIA"],
+    ["182105", "CASTELÕES"],
+    ["182106", "DARDAVAZ"],
+    ["182107", "FERREIRÓS DO DÃO"],
+    ["182108", "GUARDÃO"],
+    ["182109", "LAJEOSA DO DÃO"],
+    ["182110", "LOBÃO DA BEIRA"],
+    ["182111", "MOLELOS"],
+    ["182116", "PARADA DE GONTA"],
+    ["182118", "SANTIAGO DE BESTEIROS"],
+    ["182122", "TONDA"],
+    ["182127", "União das freguesias de Barreiro de Besteiros e Tourigo"],
+    ["182128", "União das freguesias de Caparrosa e Silvares"],
+    ["182129", "União das freguesias de Mouraz e Vila Nova da Rainha"],
+    ["182130", "União das freguesias de São João do Monte e Mosteirinho"],
+    ["182131", "União das freguesias de São Miguel do Outeiro e Sabugosa"],
+    ["182132", "União das freguesias de Tondela e Nandufe"],
+    [
+      "182133",
+      "União das freguesias de Vilar de Besteiros e Mosteiro de Fráguas"
+    ]
+  ],
+
+  "1822": [
+    ["182203", "PENDILHE"],
+    ["182204", "QUEIRIGA"],
+    ["182205", "TOURO"],
+    ["182206", "VILA COVA À COELHEIRA"],
+    ["182208", "União das freguesias de Vila Nova de Paiva, Alhais e Fráguas"]
+  ],
+
+  "1823": [
+    ["182301", "ABRAVESES"],
+    ["182304", "BODIOSA"],
+    ["182305", "CALDE"],
+    ["182306", "CAMPO"],
+    ["182307", "CAVERNÃES"],
+    ["182310", "COTA"],
+    ["182315", "FRAGOSELA"],
+    ["182316", "LORDOSA"],
+    ["182317", "SILGUEIROS"],
+    ["182318", "MUNDÃO"],
+    ["182319", "ORGENS"],
+    ["182320", "POVOLIDE"],
+    ["182321", "RANHADOS"],
+    ["182322", "RIBAFEITA"],
+    ["182323", "RIO DE LOBA"],
+    ["182325", "SANTOS EVOS"],
+    ["182327", "SÃO JOÃO DE LOUROSA"],
+    ["182329", "SÃO PEDRO DE FRANCE"],
+    ["182335", "União das freguesias de Barreiros e Cepões"],
+    ["182336", "União das freguesias de Boa Aldeia, Farminhão e Torredeita"],
+    ["182337", "Coutos de Viseu"],
+    ["182338", "União das freguesias de Faíl e Vila Chã de Sá"],
+    ["182339", "Repeses e São Salvador"],
+    ["182340", "São Cipriano e Vil de Souto"],
+    ["182341", "Viseu"]
+  ],
+
+  "1824": [
+    ["182401", "ALCOFRA"],
+    ["182403", "CAMPIA"],
+    ["182407", "FORNELO DO MONTE"],
+    ["182409", "QUEIRÃ"],
+    ["182410", "SÃO MIGUEL DO MATO"],
+    ["182411", "VENTOSA"],
+    ["182413", "União das freguesias de Cambra e Carvalhal de Vermilhas"],
+    ["182414", "União das freguesias de Fataunços e Figueiredo das Donas"],
+    ["182415", "União das freguesias de Vouzela e Paços de Vilharigues"]
+  ],
+
+  "3101": [
+    ["310101", "ARCO DA CALHETA"],
+    ["310102", "CALHETA"],
+    ["310103", "ESTREITO DA CALHETA"],
+    ["310104", "FAJÃ DA OVELHA"],
+    ["310105", "JARDIM DO MAR"],
+    ["310106", "PAÚL DO MAR"],
+    ["310107", "PONTA DO PARGO"],
+    ["310108", "PRAZERES"]
+  ],
+
+  "3102": [
+    ["310201", "CÂMARA DE LOBOS"],
+    ["310202", "CURRAL DAS FREIRAS"],
+    ["310203", "ESTREITO DE CÂMARA DE LOBOS"],
+    ["310204", "QUINTA GRANDE"],
+    ["310205", "JARDIM DA SERRA"]
+  ],
+
+  "3103": [
+    ["310301", "IMACULADO CORAÇÃO DE MARIA"],
+    ["310302", "MONTE"],
+    ["310303", "FUNCHAL (SANTA LUZIA)"],
+    ["310304", "FUNCHAL (SANTA MARIA MAIOR)"],
+    ["310305", "SANTO ANTÓNIO"],
+    ["310306", "SÃO GONÇALO"],
+    ["310307", "SÃO MARTINHO"],
+    ["310308", "FUNCHAL (SÃO PEDRO)"],
+    ["310309", "SÃO ROQUE"],
+    ["310310", "FUNCHAL (SÉ)"]
+  ],
+
+  "3104": [
+    ["310401", "ÁGUA DE PENA"],
+    ["310402", "CANIÇAL"],
+    ["310403", "MACHICO"],
+    ["310404", "PORTO DA CRUZ"],
+    ["310405", "SANTO ANTÓNIO DA SERRA"]
+  ],
+
+  "3105": [
+    ["310501", "CANHAS"],
+    ["310502", "MADALENA DO MAR"],
+    ["310503", "PONTA DO SOL"]
+  ],
+
+  "3106": [
+    ["310601", "ACHADAS DA CRUZ"],
+    ["310602", "PORTO MONIZ"],
+    ["310603", "RIBEIRA DA JANELA"],
+    ["310604", "SEIXAL"]
+  ],
+
+  "3107": [
+    ["310701", "CAMPANÁRIO"],
+    ["310702", "RIBEIRA BRAVA"],
+    ["310703", "SERRA DE ÁGUA"],
+    ["310704", "TÁBUA"]
+  ],
+
+  "3108": [
+    ["310802", "CAMACHA"],
+    ["310803", "CANIÇO"],
+    ["310804", "GAULA"],
+    ["310805", "SANTA CRUZ"],
+    ["310806", "SANTO ANTÓNIO DA SERRA"]
+  ],
+
+  "3109": [
+    ["310901", "ARCO DE SÃO JORGE"],
+    ["310902", "FAIAL"],
+    ["310903", "SANTANA"],
+    ["310904", "SÃO JORGE"],
+    ["310905", "SÃO ROQUE DO FAIAL"],
+    ["310906", "ILHA"]
+  ],
+
+  "3110": [
+    ["311001", "BOA VENTURA"],
+    ["311002", "PONTA DELGADA"],
+    ["311003", "SÃO VICENTE"]
+  ],
+
+  "3201": [["320101", "PORTO SANTO"]],
+
+  "4101": [
+    ["410101", "ALMAGREIRA"],
+    ["410102", "SANTA BÁRBARA"],
+    ["410103", "SANTO ESPÍRITO"],
+    ["410104", "SÃO PEDRO"],
+    ["410105", "VILA DO PORTO"]
+  ],
+
+  "4201": [
+    ["420101", "ÁGUA DE PAU"],
+    ["420102", "CABOUCO"],
+    ["420103", "LAGOA (NOSSA SENHORA DO ROSÁRIO)"],
+    ["420104", "LAGOA (SANTA CRUZ)"],
+    ["420105", "RIBEIRA CHÃ"]
+  ],
+
+  "4202": [
+    ["420201", "ACHADA"],
+    ["420202", "ACHADINHA"],
+    ["420203", "LOMBA DA FAZENDA"],
+    ["420204", "NORDESTE"],
+    ["420206", "SALGA"],
+    ["420207", "SANTANA"],
+    ["420208", "ALGARVIA"],
+    ["420209", "SANTO ANTÓNIO DE NORDESTINHO"],
+    ["420210", "SÃO PEDRO DE NORDESTINHO"]
+  ],
+
+  "4203": [
+    ["420301", "ARRIFES"],
+    ["420303", "CANDELÁRIA"],
+    ["420304", "CAPELAS"],
+    ["420305", "COVOADA"],
+    ["420306", "FAJÃ DE BAIXO"],
+    ["420307", "FAJÃ DE CIMA"],
+    ["420308", "FENAIS DA LUZ"],
+    ["420309", "FETEIRAS"],
+    ["420310", "GINETES"],
+    ["420311", "MOSTEIROS"],
+    ["420312", "PONTA DELGADA (SÃO SEBASTIÃO)"],
+    ["420313", "PONTA DELGADA (SÃO JOSÉ)"],
+    ["420314", "PONTA DELGADA (SÃO PEDRO)"],
+    ["420315", "RELVA"],
+    ["420316", "REMÉDIOS"],
+    ["420317", "ROSTO DO CÃO (LIVRAMENTO)"],
+    ["420318", "ROSTO DO CÃO (SÃO ROQUE)"],
+    ["420319", "SANTA BÁRBARA"],
+    ["420320", "SANTO ANTÓNIO"],
+    ["420321", "SÃO VICENTE FERREIRA"],
+    ["420322", "SETE CIDADES"],
+    ["420323", "AJUDA DA BRETANHA"],
+    ["420324", "PILAR DA BRETANHA"],
+    ["420325", "SANTA CLARA"]
+  ],
+
+  "4204": [
+    ["420401", "ÁGUA RETORTA"],
+    ["420402", "FAIAL DA TERRA"],
+    ["420403", "FURNAS"],
+    ["420404", "NOSSA SENHORA DOS REMÉDIOS"],
+    ["420405", "POVOAÇÃO"],
+    ["420406", "RIBEIRA QUENTE"]
+  ],
+
+  "4205": [
+    ["420501", "CALHETA"],
+    ["420502", "FENAIS DA AJUDA"],
+    ["420503", "LOMBA DA MAIA"],
+    ["420504", "LOMBA DE SÃO PEDRO"],
+    ["420505", "MAIA"],
+    ["420506", "PICO DA PEDRA"],
+    ["420507", "PORTO FORMOSO"],
+    ["420508", "RABO DE PEIXE"],
+    ["420509", "RIBEIRA GRANDE (CONCEIÇÃO)"],
+    ["420510", "RIBEIRA GRANDE (MATRIZ)"],
+    ["420511", "RIBEIRA SECA"],
+    ["420512", "RIBEIRINHA"],
+    ["420513", "SANTA BÁRBARA"],
+    ["420514", "SÃO BRÁS"]
+  ],
+
+  "4206": [
+    ["420601", "ÁGUA DE ALTO"],
+    ["420602", "PONTA GARÇA"],
+    ["420603", "RIBEIRA DAS TAÍNHAS"],
+    ["420604", "VILA FRANCA DO CAMPO (SÃO MIGUEL)"],
+    ["420605", "VILA FRANCA DO CAMPO (SÃO PEDRO)"],
+    ["420606", "RIBEIRA SECA"]
+  ],
+
+  "4301": [
+    ["430101", "ALTARES"],
+    ["430102", "ANGRA (NOSSA SENHORA DA CONCEIÇÃO)"],
+    ["430103", "ANGRA (SANTA LUZIA)"],
+    ["430104", "ANGRA (SÃO PEDRO)"],
+    ["430105", "ANGRA (SÉ)"],
+    ["430106", "CINCO RIBEIRAS"],
+    ["430107", "DOZE RIBEIRAS"],
+    ["430108", "FETEIRA"],
+    ["430109", "PORTO JUDEU"],
+    ["430110", "POSTO SANTO"],
+    ["430111", "RAMINHO"],
+    ["430112", "RIBEIRINHA"],
+    ["430113", "SANTA BÁRBARA"],
+    ["430114", "SÃO BARTOLOMEU DE REGATOS"],
+    ["430115", "SÃO BENTO"],
+    ["430116", "SÃO MATEUS DA CALHETA"],
+    ["430117", "SERRETA"],
+    ["430118", "TERRA CHÃ"],
+    ["430119", "VILA DE SÃO SEBASTIÃO"]
+  ],
+
+  "4302": [
+    ["430201", "AGUALVA"],
+    ["430202", "BISCOITOS"],
+    ["430203", "CABO DA PRAIA"],
+    ["430204", "FONTE DO BASTARDO"],
+    ["430205", "FONTINHAS"],
+    ["430206", "LAJES"],
+    ["430207", "PRAIA DA VITÓRIA (SANTA CRUZ)"],
+    ["430208", "QUATRO RIBEIRAS"],
+    ["430209", "SÃO BRÁS"],
+    ["430210", "VILA NOVA"],
+    ["430211", "PORTO MARTINS"]
+  ],
+
+  "4401": [
+    ["440101", "GUADALUPE"],
+    ["440102", "LUZ"],
+    ["440103", "SÃO MATEUS"],
+    ["440104", "SANTA CRUZ DA GRACIOSA"]
+  ],
+
+  "4501": [
+    ["450101", "CALHETA"],
+    ["450102", "NORTE PEQUENO"],
+    ["450103", "RIBEIRA SECA"],
+    ["450104", "SANTO ANTÃO"],
+    ["450105", "TOPO (NOSSA SENHORA DO ROSÁRIO)"]
+  ],
+
+  "4502": [
+    ["450201", "MANADAS (SANTA BÁRBARA)"],
+    ["450202", "NORTE GRANDE (NEVES)"],
+    ["450203", "ROSAIS"],
+    ["450204", "SANTO AMARO"],
+    ["450205", "URZELINA (SÃO MATEUS)"],
+    ["450206", "VELAS (SÃO JORGE)"]
+  ],
+
+  "4601": [
+    ["460101", "CALHETA DE NESQUIM"],
+    ["460102", "LAJES DO PICO"],
+    ["460103", "PIEDADE"],
+    ["460104", "RIBEIRAS"],
+    ["460105", "RIBEIRINHA"],
+    ["460106", "SÃO JOÃO"]
+  ],
+
+  "4602": [
+    ["460201", "BANDEIRAS"],
+    ["460202", "CANDELÁRIA"],
+    ["460203", "CRIAÇÃO VELHA"],
+    ["460204", "MADALENA"],
+    ["460205", "SÃO CAETANO"],
+    ["460206", "SÃO MATEUS"]
+  ],
+
+  "4603": [
+    ["460301", "PRAINHA"],
+    ["460302", "SANTA LUZIA"],
+    ["460303", "SANTO AMARO"],
+    ["460304", "SANTO ANTÓNIO"],
+    ["460305", "SÃO ROQUE DO PICO"]
+  ],
+
+  "4701": [
+    ["470101", "CAPELO"],
+    ["470102", "CASTELO BRANCO"],
+    ["470103", "CEDROS"],
+    ["470104", "FETEIRA"],
+    ["470105", "FLAMENGOS"],
+    ["470106", "HORTA (ANGÚSTIAS)"],
+    ["470107", "HORTA (CONCEIÇÃO)"],
+    ["470108", "HORTA (MATRIZ)"],
+    ["470109", "PEDRO MIGUEL"],
+    ["470110", "PRAIA DO ALMOXARIFE"],
+    ["470111", "PRAIA DO NORTE"],
+    ["470112", "RIBEIRINHA"],
+    ["470113", "SALÃO"]
+  ],
+
+  "4801": [
+    ["480101", "FAJÃ GRANDE"],
+    ["480102", "FAJÃZINHA"],
+    ["480103", "FAZENDA"],
+    ["480104", "LAJEDO"],
+    ["480105", "LAJES DAS FLORES"],
+    ["480106", "LOMBA"],
+    ["480107", "MOSTEIRO"]
+  ],
+
+  "4802": [
+    ["480201", "CAVEIRA"],
+    ["480202", "CEDROS"],
+    ["480203", "PONTA DELGADA"],
+    ["480204", "SANTA CRUZ DAS FLORES"]
+  ],
+
+  "4901": [["490101", "CORVO"]]
+}
