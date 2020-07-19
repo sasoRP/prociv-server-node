@@ -4,12 +4,15 @@ var Schema = mongoose.Schema;
 var OccurrenceSchema = new Schema(
     {
         Concelho: String,
+        ConcelhoID: Number,
         DataFechoOperacional: String,
         DataOcorrencia: String,
         Distrito: String,
+        DistritoID: Number,
         EstadoOcorrencia: String,
         EstadoOcorrenciaID: Number,
         Freguesia: String,
+        FreguesiaID: Number,
         ID: Number,
         Latitude: Number,
         Localidade: String,
