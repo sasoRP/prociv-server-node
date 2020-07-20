@@ -6,3 +6,15 @@ Add a config folder to the root directory with a .env file containing your PORT 
 
 example:
 /config/dev.env
+
+## endpoints
+
+/all -> get all occurrences from database
+/distrito/:distritoID -> get occurrences from distrito code (DI)
+/concelho/:concelhoID -> get occurrences from concelho code (DICO)
+/freguesia/:freguesiaID -> get occurrences from freguesia code (DICOFRE)
+
+## test
+
+For test run npm/yarn test.
+Testing framework used - JEST
