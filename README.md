@@ -9,12 +9,13 @@ example:
 
 ## endpoints
 
-/all -> get all occurrences from database
-/distrito/:distritoID -> get occurrences from distrito code (DI)
-/concelho/:concelhoID -> get occurrences from concelho code (DICO)
+/fetchAll -> fetch all occurrences from ANPC and save to DB  
+/all -> get all occurrences from database  
+/distrito/:distritoID -> get occurrences from distrito code (DI)  
+/concelho/:concelhoID -> get occurrences from concelho code (DICO)  
 /freguesia/:freguesiaID -> get occurrences from freguesia code (DICOFRE)
 
 ## test
 
-For test run npm/yarn test.
+For test run npm/yarn test.  
 Testing framework used - JEST
