@@ -1,4 +1,5 @@
 const axios = require('axios');
+const moment = require('moment');
 
 const Occurrence = require('./models/occurrence');
 
@@ -28,11 +29,11 @@ exports.getHistoryOccurrencesByLocation = () => {
                 let queryObj = new Occurrence({
                     Concelho: occurr.Concelho.Name,
                     ConcelhoID: occurr.Concelho.DICO,
-                    DataFechoOperacional: occurr.DataFechoOperacional,
-                    DataOcorrencia: occurr.DataOcorrencia,
+                    DataOcorrencia: moment(occurr.DataOcorrencia),
                     Distrito: occurr.Distrito.Name,
                     DistritoID: occurr.Distrito.DI,
                     EstadoOcorrencia: occurr.EstadoOcorrencia.Name,
+                    EstadoOcorrenciaActive: occurr.EstadoOcorrencia.Active,
                     EstadoOcorrenciaID: occurr.EstadoOcorrenciaID,
                     Freguesia: occurr.Freguesia.Name,
                     FreguesiaID: occurr.Freguesia.DICOFRE,
@@ -53,7 +54,9 @@ exports.getHistoryOccurrencesByLocation = () => {
                 });
                 queryObj
                     .save()
-                    .then((response) => console.log(response))
+                    .then((response) =>
+                        console.log('Document successfully created!')
+                    )
                     .catch((err) => console.log(err));
             });
         });
